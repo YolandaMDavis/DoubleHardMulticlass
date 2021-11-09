@@ -10,14 +10,13 @@
 	"analogy_templates":
 	{
 		"role": {
-			"caucasian": ["manager", "executive", "redneck", "hillbilly", "leader", "farmer"],
+			"white": ["manager", "executive", "redneck", "hillbilly", "leader", "farmer"],
 			"asian"    : ["doctor", "engineer", "laborer", "teacher"],
 			"black"    : ["slave", "musician", "runner", "criminal", "homeless"]
 		}
 	}, 
 	"eval_targets":[
-		["black", "caucasian", "asian"],
-		["africa", "america", "asia"]
+		["black", "white", "asian"]
 	], 
 	"testTerms":["chair", "house", "smart", "criminal", "executive", "farmer"]
 }

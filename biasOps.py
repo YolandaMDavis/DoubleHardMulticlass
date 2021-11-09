@@ -34,15 +34,15 @@ def neutralize_and_equalize_with_frequency_removal(vocab, words, eq_sets, bias_s
     freq_vocab = vocab.copy()
 
     for word in words:
-        vector = vocab[word]
+        vector = freq_vocab[word]
         projection = np.dot(np.dot(np.transpose(principal_component), vector), principal_component)
         freq_vocab[word] = vector - projection
 
     new_vocab = freq_vocab.copy()
     for w in words:
         # get projection onto bias subspace
-        if w in vocab:
-            v = vocab[w]
+        if w in freq_vocab:
+            v = freq_vocab[w]
             v_b = project_onto_subspace(v, bias_subspace)
 
             new_v = (v - v_b) / np.linalg.norm(v - v_b)
