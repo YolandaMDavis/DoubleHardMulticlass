@@ -101,6 +101,17 @@ def pruneWordVecs(wordVecs):
             newWordVecs[word] = vec
     return newWordVecs
 
+def pruneWordKeyVecs(wordVecs):
+    newWordVecs = {}
+    for word, idx in wordVecs.key_to_index.items():
+        vec = wordVecs.get_vector(word)
+        valid=True
+        if(not isValidWord(word)):
+            valid = False
+        if(valid):
+            newWordVecs[word] = vec
+    return newWordVecs
+
 def preprocessWordVecs(wv):
     """
     Following Bolukbasi:

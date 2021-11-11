@@ -31,56 +31,16 @@ def neutralize_and_equalize_with_frequency_removal(vocab, words, eq_sets, bias_s
     elif bias_subspace.ndim != 2:
         raise ValueError("bias subspace should be either a matrix or vector")
 
+    full_set = set(list(words) + [word for eq_words in eq_sets for word in eq_words])
     freq_vocab = vocab.copy()
 
-    for word in words:
+    for word in full_set:
         vector = freq_vocab[word]
         projection = np.dot(np.dot(np.transpose(principal_component), vector), principal_component)
         freq_vocab[word] = vector - projection
 
-    new_vocab = freq_vocab.copy()
-    for w in words:
-        # get projection onto bias subspace
-        if w in freq_vocab:
-            v = freq_vocab[w]
-            v_b = project_onto_subspace(v, bias_subspace)
+    return neutralize_and_equalize(freq_vocab, words, eq_sets, bias_subspace, embedding_dim)
 
-            new_v = (v - v_b) / np.linalg.norm(v - v_b)
-            #print np.linalg.norm(new_v)
-            # update embedding
-            new_vocab[w] = new_v
-
-    normalize(new_vocab)
-
-    for eq_set in eq_sets:
-        mean = np.zeros((embedding_dim,))
-
-        #Make sure the elements in the eq sets are valid
-        cleanEqSet = []
-        for w in eq_set:
-            try:
-                _ = new_vocab[w]
-                cleanEqSet.append(w)
-            except KeyError as e:
-                pass
-
-        for w in cleanEqSet:
-            mean += new_vocab[w]
-        mean /= float(len(cleanEqSet))
-
-        mean_b = project_onto_subspace(mean, bias_subspace)
-        upsilon = mean - mean_b
-
-        for w in cleanEqSet:
-            v = new_vocab[w]
-            v_b = project_onto_subspace(v, bias_subspace)
-
-            frac = (v_b - mean_b) / np.linalg.norm(v_b - mean_b)
-            new_v = upsilon + np.sqrt(1 - np.sum(np.square(upsilon))) * frac
-
-            new_vocab[w] = new_v
-
-    return new_vocab
 
 def identify_bias_subspace(vocab, def_sets, subspace_dim, embedding_dim):
     """

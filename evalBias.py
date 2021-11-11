@@ -75,10 +75,6 @@ def multiclass_evaluation(embeddings, targets, attributes):
 	return m_score, targets_eval
 
 def _unary_s(embeddings, target, attributes):
-	print(target)
-	print(attributes)
-	print([ spatial.distance.cosine(embeddings[target], embeddings[ai]) for ai in attributes ])
-	print(np.mean([ spatial.distance.cosine(embeddings[target], embeddings[ai]) for ai in attributes ]))
 	return np.mean([ spatial.distance.cosine(embeddings[target], embeddings[ai]) for ai in attributes ])
 
 
