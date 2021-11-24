@@ -1,3 +1,7 @@
+"""
+Util functions adapted and upgraded from https://github.com/TManzini/DebiasMulticlassWordEmbedding/blob/master/Debiasing/util.py
+Except where directly noted
+"""
 import string
 
 import numpy as np
@@ -147,7 +151,9 @@ def listContainsMultiple(source, target):
             return True
     return False
 
-# From https://kaggle.com/jeffd23/visualizing-word-vectors-with-t-sne
+"""
+TSNE Plot adapted From https://kaggle.com/jeffd23/visualizing-word-vectors-with-t-sne
+"""
 def tsne_plot(wv, focus_words, label_words, classes):
     # Creates and TSNE model and plots it
     labels = []

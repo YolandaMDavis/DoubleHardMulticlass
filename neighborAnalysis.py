@@ -1,5 +1,5 @@
 """
-Plot number of male neighbors vs original bias
+Neighborhood Analysis Extracted from https://github.com/TManzini/DebiasMulticlassWordEmbedding/blob/master/Debiasing/neighborAnalysis.py
 """
 
 import argparse

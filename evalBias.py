@@ -1,6 +1,8 @@
+"""
+EvalBias functions extracted from https://github.com/TManzini/DebiasMulticlassWordEmbedding/blob/master/Debiasing/evalBias.py
+"""
 from scipy import spatial
 import numpy as np
-import itertools
 
 def generateAnalogies_parallelogram(analogyTemplates, keyedVecs):
 	expandedAnalogyTemplates = []
