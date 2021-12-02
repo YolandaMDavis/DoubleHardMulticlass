@@ -1,3 +1,7 @@
+"""
+Loader functions extracted from https://github.com/TManzini/DebiasMulticlassWordEmbedding/blob/master/Debiasing/loader.py
+"""
+
 import json
 from util import listContainsMultiple
 

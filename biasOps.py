@@ -1,8 +1,10 @@
+"""
+Original Code Adapted from https://github.com/TManzini/DebiasMulticlassWordEmbedding/blob/master/Debiasing/biasOps.py
+(Except where directly indicated from another source)
+"""
 import numpy as np
 from sklearn.decomposition import PCA
 from sklearn.metrics.pairwise import cosine_similarity
-
-import torch
 
 def normalize(word_vectors):
     for k, v in word_vectors.items():
@@ -19,6 +21,9 @@ def calculate_main_pca_components(word_vectors):
 
 def neutralize_and_equalize_with_frequency_removal(vocab, words, eq_sets, bias_subspace, embedding_dim, principal_component):
     """
+    Function to support double hard debias technique, ensureing to remove frequence direction before
+    executing netrualize and equalize function
+
     vocab - dictionary mapping words to embeddings
     words - words to neutralize
     eq_sets - set of equality sets
@@ -31,56 +36,16 @@ def neutralize_and_equalize_with_frequency_removal(vocab, words, eq_sets, bias_s
     elif bias_subspace.ndim != 2:
         raise ValueError("bias subspace should be either a matrix or vector")
 
+    full_set = set(list(words) + [word for eq_words in eq_sets for word in eq_words])
     freq_vocab = vocab.copy()
 
-    for word in words:
-        vector = vocab[word]
+    for word in full_set:
+        vector = freq_vocab[word]
         projection = np.dot(np.dot(np.transpose(principal_component), vector), principal_component)
         freq_vocab[word] = vector - projection
 
-    new_vocab = freq_vocab.copy()
-    for w in words:
-        # get projection onto bias subspace
-        if w in vocab:
-            v = vocab[w]
-            v_b = project_onto_subspace(v, bias_subspace)
+    return neutralize_and_equalize(freq_vocab, words, eq_sets, bias_subspace, embedding_dim)
 
-            new_v = (v - v_b) / np.linalg.norm(v - v_b)
-            #print np.linalg.norm(new_v)
-            # update embedding
-            new_vocab[w] = new_v
-
-    normalize(new_vocab)
-
-    for eq_set in eq_sets:
-        mean = np.zeros((embedding_dim,))
-
-        #Make sure the elements in the eq sets are valid
-        cleanEqSet = []
-        for w in eq_set:
-            try:
-                _ = new_vocab[w]
-                cleanEqSet.append(w)
-            except KeyError as e:
-                pass
-
-        for w in cleanEqSet:
-            mean += new_vocab[w]
-        mean /= float(len(cleanEqSet))
-
-        mean_b = project_onto_subspace(mean, bias_subspace)
-        upsilon = mean - mean_b
-
-        for w in cleanEqSet:
-            v = new_vocab[w]
-            v_b = project_onto_subspace(v, bias_subspace)
-
-            frac = (v_b - mean_b) / np.linalg.norm(v_b - mean_b)
-            new_v = upsilon + np.sqrt(1 - np.sum(np.square(upsilon))) * frac
-
-            new_vocab[w] = new_v
-
-    return new_vocab
 
 def identify_bias_subspace(vocab, def_sets, subspace_dim, embedding_dim):
     """
@@ -196,115 +161,3 @@ def neutralize_and_equalize(vocab, words, eq_sets, bias_subspace, embedding_dim)
             new_vocab[w] = new_v
 
     return new_vocab
-
-def equalize_and_soften(vocab, words, eq_sets, bias_subspace, embedding_dim, l=0.2, verbose=True):
-    vocabIndex, vocabVectors = zip(*vocab.items())
-    vocabIndex = {i:label for i, label in enumerate(vocabIndex)}
-
-    Neutrals = torch.tensor([vocab[w] for w in words]).float().t()
-
-    Words = torch.tensor(vocabVectors).float().t()
-
-    # perform SVD on W to reduce memory and computational costs
-    # based on suggestions in supplementary material of Bolukbasi et al.
-    u, s, _ = torch.svd(Words)
-    s = torch.diag(s)
-
-    # precompute
-    t1 = s.mm(u.t())
-    t2 = u.mm(s)
-
-    Transform = torch.randn(embedding_dim, embedding_dim).float()
-    BiasSpace = torch.tensor(bias_subspace).view(embedding_dim, -1).float()
-
-    Neutrals.requires_grad = False
-    Words.requires_grad = False
-    BiasSpace.requires_grad = False
-    Transform.requires_grad = True
-
-    epochs = 10
-    optimizer = torch.optim.SGD([Transform], lr=0.000001, momentum=0.0)
-
-    for i in range(0, epochs):
-        TtT = torch.mm(Transform.t(), Transform)
-        norm1 = (t1.mm(TtT - torch.eye(embedding_dim)).mm(t2)).norm(p=2)
-
-        norm2 = (Neutrals.t().mm(TtT).mm(BiasSpace)).norm(p=2)
-
-        loss = norm1 + l * norm2
-        norm1 = None
-        norm2 = None
-
-        loss.backward()
-        optimizer.step()
-        optimizer.zero_grad()
-        
-        if(verbose):
-            print("Loss @ Epoch #" + str(i) + ":", loss)
-
-    if(verbose):
-        print("Optimization Completed, normalizing vector transform")
-
-    debiasedVectors = {}
-    for i, w in enumerate(Words.t()):
-        transformedVec = torch.mm(Transform, w.view(-1, 1))
-        debiasedVectors[vocabIndex[i]] = ( transformedVec / transformedVec.norm(p=2) ).detach().numpy().flatten()
-
-    return debiasedVectors
-
-def equalize_and_soften_old(vocab, words, eq_sets, bias_subspace, embedding_dim, l=0.2, verbose=True):
-    vocabIndex, vocabVectors = zip(*vocab.items())
-    vocabIndex = {i:label for i, label in enumerate(vocabIndex)}
-
-    Neutrals = torch.tensor([vocab[w] for w in words]).float().t()
-
-    Words = torch.tensor(vocabVectors).float().t()
-    Transform = torch.randn(embedding_dim, embedding_dim).float()
-    BiasSpace = torch.tensor(bias_subspace).view(embedding_dim, -1).float()
-
-    Neutrals.requires_grad = False
-    Words.requires_grad = False
-    BiasSpace.requires_grad = False
-    Transform.requires_grad = True
-
-    epochs = 10
-    optimizer = torch.optim.SGD([Transform], lr=0.000001, momentum=0.0)
-
-    for i in range(0, epochs):
-        TW = torch.mm(Transform, Words)
-        WtW = torch.mm(Words.t(), Words)
-
-        norm1 = (torch.mm(TW.t(), TW) - WtW).norm(p=2)
-        TW = None
-        WtW = None
-
-        TNt = torch.mm(Transform, Neutrals).t()
-        TB = torch.mm(Transform, BiasSpace)
-
-        norm2 = torch.mm(TNt, TB).norm(p=2)
-        TNt = None
-        TB = None
-
-        loss = norm1 + l * norm2
-        norm1 = None
-        norm2 = None
-
-        loss.backward()
-        optimizer.step()
-        optimizer.zero_grad()
-        
-        if(verbose):
-            print("Loss @ Epoch #" + str(i) + ":", loss)
-
-    if(verbose):
-        print("Optimization Completed, normalizing vector transform")
-
-    debiasedVectors = {}
-    for i, w in enumerate(Words.t()):
-        transformedVec = torch.mm(Transform, w.view(-1, 1))
-        debiasedVectors[vocabIndex[i]] = ( transformedVec / transformedVec.norm(p=2) ).detach().numpy().flatten()
-
-    return debiasedVectors
-
-
-
