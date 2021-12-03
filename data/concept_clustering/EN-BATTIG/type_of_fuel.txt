@@ -1,0 +1,76 @@
+word,freq,frequency,rank,rfreq
+oil,320,93,1,2.53
+gas,275,98,2,1.72
+coal,253,32,3,2.88
+wood,223,55,4,3.75
+gasoline,183,12,5,1.8
+kerosine,145,6,6,3.47
+electricity,64,26,7,3.95
+paper,52,157,8,4.97
+petroleum,49,1,9,2.89
+alcohol,45,13,10,3.79
+atom,44,37,11,4.52
+diesel oil,36,0,12,3.9
+oxygen,35,43,13,4.7
+water,35,442,14,4.48
+uranium,27,6,15,4
+charcoal,24,14,16,5.44
+hydrogen,23,39,17,4.8
+food,20,147,18,3.5
+steam,20,17,19,5.14
+butane,19,1,20,3.81
+propane,17,0,21,4.31
+methane,16,0,22,4.62
+coke,15,4,23,5.17
+natural gas,14,0,24,3.38
+petrol,13,0,25,5.8
+peat,11,0,26,4.83
+air,10,257,27,3.5
+benzene,9,NA,28,NA
+lighter fluid,9,NA,29,NA
+nitrogen,9,NA,30,NA
+nuclear energy,9,NA,31,NA
+solid fuel,9,NA,32,NA
+sun,9,NA,33,NA
+carbon,7,NA,34,NA
+ethyl,7,NA,35,NA
+liquid oxygen,7,NA,36,NA
+octane,7,NA,37,NA
+peat moss,6,NA,38,NA
+fire,5,NA,39,NA
+leaves,5,NA,40,NA
+carbon chloride,4,NA,41,NA
+grass,4,NA,42,NA
+helium,4,NA,43,NA
+liquid,4,NA,44,NA
+nitrocellulose,4,NA,45,NA
+nitromethane,4,NA,46,NA
+peroxide,4,NA,47,NA
+esso,3,NA,48,NA
+heat,3,NA,49,NA
+liquid nitrogen,3,NA,50,NA
+lp gas,3,NA,51,NA
+nitroglycerin,3,NA,52,NA
+sunoco,3,NA,53,NA
+tar,3,NA,54,NA
+water power,3,NA,55,NA
+amoco,2,NA,56,NA
+anthracite,2,NA,57,NA
+calories,2,NA,58,NA
+coal oil,2,NA,59,NA
+combustion,2,NA,60,NA
+fuel oil,2,NA,61,NA
+gulf,2,NA,62,NA
+hydrogen peroxide,2,NA,63,NA
+liquid hydrogen,2,NA,64,NA
+lox,2,NA,65,NA
+methylene,2,NA,66,NA
+naphtha,2,NA,67,NA
+pentane,2,NA,68,NA
+radium,2,NA,69,NA
+regular,2,NA,70,NA
+rocket fuel,2,NA,71,NA
+sugar,2,NA,72,NA
+sunlight,2,NA,73,NA
+wax,2,NA,74,NA
+white gas,2,NA,75,NA

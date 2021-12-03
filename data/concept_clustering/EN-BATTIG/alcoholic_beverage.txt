@@ -1,0 +1,69 @@
+word,freq,frequency,rank,rfreq
+beer,384,34,1,2.24
+whiskey,323,17,2,3.37
+gin,308,23,3,3.66
+wine,293,72,4,3.41
+vodka,269,0,5,4.48
+bourbon,222,8,6,4.1
+scotch,208,5,7,4.41
+rum,167,3,8,4.43
+brandy,78,7,9,5.29
+rye,72,4,10,5.07
+champagne,67,13,11,6.02
+vermouth,55,1,12,6.04
+ale,49,1,13,4.9
+malt liquor,37,0,14,7.23
+martini,33,6,15,4.31
+creme de menthe,25,0,16,6.39
+liqueur,25,1,17,4.64
+sherry,23,8,18,5.29
+highball,19,4,19,3
+tom collins,19,0,20,5.5
+seagrams 7,16,0,21,6.5
+whiskey sour,16,0,22,4.38
+liquor,15,43,23,3
+daquiri,14,0,24,5.57
+screwdriver,14,0,25,5.89
+sloe gin,14,0,26,5.56
+tequila,12,0,27,7.33
+manhattan,11,20,28,4.4
+cognac,9,NA,29,NA
+sake,9,NA,30,NA
+burgundy,7,NA,31,NA
+grasshopper,7,NA,32,NA
+old-fashioned,7,NA,33,NA
+port,7,NA,34,NA
+bloody mary,6,NA,35,NA
+creme de cocao,6,NA,36,NA
+cordial,5,NA,37,NA
+grain alcohol,5,NA,38,NA
+canadian club,4,NA,39,NA
+drambuie,4,NA,40,NA
+eggnog,4,NA,41,NA
+kaluah,4,NA,42,NA
+moonshine,4,NA,43,NA
+blended whiskey,3,NA,44,NA
+budweiser,3,NA,45,NA
+cherry heering,3,NA,46,NA
+chianti,3,NA,47,NA
+four roses,3,NA,48,NA
+gin and tonic,3,NA,49,NA
+mixed drinks,3,NA,50,NA
+ripple,3,NA,51,NA
+seven and seven,3,NA,52,NA
+soda,3,NA,53,NA
+vo,3,NA,54,NA
+white wine,3,NA,55,NA
+bad,2,NA,56,NA
+booze,2,NA,57,NA
+cocktails,2,NA,58,NA
+corn whiskey,2,NA,59,NA
+coventry club,2,NA,60,NA
+gin fizz,2,NA,61,NA
+jim beam,2,NA,62,NA
+old grandad,2,NA,63,NA
+pink lady,2,NA,64,NA
+rum coke,2,NA,65,NA
+schnapps,2,NA,66,NA
+southern comfort,2,NA,67,NA
+tia maria,2,NA,68,NA

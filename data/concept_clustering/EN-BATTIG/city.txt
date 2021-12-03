@@ -1,0 +1,195 @@
+word,freq,frequency,rank,rfreq
+new york,361,301,1,2.57
+chicago,270,98,2,4.25
+los angeles,194,90,3,4.72
+washington,179,206,4,2.81
+san francisco,173,110,5,5.21
+baltimore,165,22,6,2.45
+london,84,89,7,4.87
+paris,84,67,8,4.94
+miami,79,22,9,5.68
+boston,74,61,10,4.06
+philadelphia,63,50,11,3.9
+detroit,52,21,12,4.72
+dallas,50,58,13,7.1
+champaign,45,13,14,6
+st. louis,45,75,15,5.44
+new orleans,39,42,16,5.56
+rome,36,70,17,6.19
+urbana,33,1,18,5
+cleveland,31,17,19,4.89
+pittsburg,30,25,20,5.31
+denver,28,16,21,4.77
+houston,27,25,22,7.2
+college park,23,0,23,3.74
+yokyo,23,18,24,4.57
+silver spring,22,0,25,3.68
+springfield,22,3,26,4
+moscow,21,47,27,6.11
+atlanta,20,35,28,4.62
+berlin,19,74,29,5.71
+tampa,18,0,30,5.64
+annapolis,17,7,31,4.35
+las vegas,17,10,32,5.57
+peoria,17,0,33,5
+bethesda,15,0,34,4.33
+seattle,15,7,35,4.13
+reno,13,7,36,6.27
+san diego,13,5,37,6.5
+columbus,12,14,38,5.33
+kansas city,12,31,39,5.91
+minneapolis,12,9,40,3.89
+decatur,11,1,41,5.5
+madrid,11,1,42,5
+milwaukee,11,9,43,4.67
+richmond,11,12,44,5.8
+rockville,11,1,45,3.8
+fort lauderdale,10,6,46,6.33
+memphis,10,8,47,5.2
+buffalo,9,NA,48,NA
+hong kong,9,NA,49,NA
+jacksonville,9,NA,50,NA
+charleston,8,NA,51,NA
+indianapolis,8,NA,52,NA
+newark,8,NA,53,NA
+sacramento,8,NA,54,NA
+buildings,7,NA,55,NA
+cincinnati,7,NA,56,NA
+des moines,7,NA,57,NA
+wheaton,7,NA,58,NA
+austin,6,NA,59,NA
+baton rouge,6,NA,60,NA
+harrisburg,6,NA,61,NA
+honolulu,6,NA,62,NA
+hyattsville,6,NA,63,NA
+ocean city,6,NA,64,NA
+orlando,6,NA,65,NA
+salt lake city,6,NA,66,NA
+st. petersburg,6,NA,67,NA
+wilmington,6,NA,68,NA
+albany,5,NA,69,NA
+alexandria,5,NA,70,NA
+bombay,5,NA,71,NA
+cinti,5,NA,72,NA
+copenhagen,5,NA,73,NA
+hartford,5,NA,74,NA
+madison,5,NA,75,NA
+miami beach,5,NA,76,NA
+naples,5,NA,77,NA
+nashville,5,NA,78,NA
+phoenix,5,NA,79,NA
+tulsa,5,NA,80,NA
+bloomington,4,NA,81,NA
+bonn,4,NA,82,NA
+brussels,4,NA,83,NA
+cambridge,4,NA,84,NA
+cars,4,NA,85,NA
+columbia,4,NA,86,NA
+frederick,4,NA,87,NA
+hagerstown,4,NA,88,NA
+hollywood,4,NA,89,NA
+kensington,4,NA,90,NA
+lansing,4,NA,91,NA
+louisville,4,NA,92,NA
+salisbury,4,NA,93,NA
+st. paul,4,NA,94,NA
+takomark,4,NA,95,NA
+tallahassee,4,NA,96,NA
+towson,4,NA,97,NA
+venice,4,NA,98,NA
+york,4,NA,99,NA
+athens,3,NA,100,NA
+aurora,3,NA,101,NA
+binghamton,3,NA,102,NA
+birmingham,3,NA,103,NA
+dayton,3,NA,104,NA
+fort worth,3,NA,105,NA
+greenbelt,3,NA,106,NA
+hotel,3,NA,107,NA
+houses,3,NA,108,NA
+long beach,3,NA,109,NA
+lucerne,3,NA,110,NA
+mattoon,3,NA,111,NA
+mobile,3,NA,112,NA
+montreal,3,NA,113,NA
+norfolk,3,NA,114,NA
+oklahoma city,3,NA,115,NA
+oslo,3,NA,116,NA
+portland,3,NA,117,NA
+prague,3,NA,118,NA
+raleigh,3,NA,119,NA
+riverdale,3,NA,120,NA
+roanoke,3,NA,121,NA
+rockford,3,NA,122,NA
+salem,3,NA,123,NA
+san jose,3,NA,124,NA
+savannah,3,NA,125,NA
+scranton,3,NA,126,NA
+streets,3,NA,127,NA
+toledo,3,NA,128,NA
+topeka,3,NA,129,NA
+tucson,3,NA,130,NA
+vienna,3,NA,131,NA
+albuquerque,2,NA,132,NA
+arlington,2,NA,133,NA
+aspen,2,NA,134,NA
+bangkok,2,NA,135,NA
+bars,2,NA,136,NA
+battle creek,2,NA,137,NA
+belleville,2,NA,138,NA
+berkeley,2,NA,139,NA
+boise,2,NA,140,NA
+boulder,2,NA,141,NA
+brooklyn,2,NA,142,NA
+buenos aires,2,NA,143,NA
+buses,2,NA,144,NA
+calcutta,2,NA,145,NA
+carbondale,2,NA,146,NA
+charlotte,2,NA,147,NA
+charlottesville,2,NA,148,NA
+cheyenne,2,NA,149,NA
+country,2,NA,150,NA
+crowded,2,NA,151,NA
+cumberland,2,NA,152,NA
+cyor,2,NA,153,NA
+falls church,2,NA,154,NA
+florence,2,NA,155,NA
+freeport,2,NA,156,NA
+gary,2,NA,157,NA
+glenburn,2,NA,158,NA
+greenville,2,NA,159,NA
+helena,2,NA,160,NA
+hot,2,NA,161,NA
+joliet,2,NA,162,NA
+kalamazoo,2,NA,163,NA
+lake forest,2,NA,164,NA
+lancaster,2,NA,165,NA
+la platte,2,NA,166,NA
+laurel,2,NA,167,NA
+luceine,2,NA,168,NA
+mexico city,2,NA,169,NA
+morton grove,2,NA,170,NA
+new brunswick,2,NA,171,NA
+new haven,2,NA,172,NA
+new jersey,2,NA,173,NA
+newport,2,NA,174,NA
+pasadena,2,NA,175,NA
+pensacola,2,NA,176,NA
+portland,2,NA,177,NA
+rantoul,2,NA,178,NA
+restaurant,2,NA,179,NA
+rio de janeiro,2,NA,180,NA
+rotterdam,2,NA,181,NA
+saigon,2,NA,182,NA
+san antonio,2,NA,183,NA
+sidewalks,2,NA,184,NA
+slums,2,NA,185,NA
+south bend,2,NA,186,NA
+state,2,NA,187,NA
+steator,2,NA,188,NA
+stores,2,NA,189,NA
+streets,2,NA,190,NA
+toronto,2,NA,191,NA
+traffic,2,NA,192,NA
+wilkes-barre,2,NA,193,NA
+youngstown,2,NA,194,NA

@@ -1,0 +1,80 @@
+word,freq,frequency,rank,rfreq
+noun,371,1,1,1.76
+adjective,339,2,2,3.85
+pronoun,332,4,3,3.8
+verb,330,4,4,2.22
+adverb,326,1,5,4.08
+conjuction,169,16,6,5.92
+preposition,169,2,7,5.52
+interjection,85,0,8,6.23
+participle,56,0,9,4.98
+gerund,45,0,10,5.3
+words,42,274,11,1.95
+article,39,68,12,5.68
+subject,33,161,13,4.24
+direct object,29,0,14,5.31
+tongue,27,35,15,3.67
+indirect object,24,0,16,6.5
+sounds,23,204,17,3
+sentences,21,34,18,4.62
+vowels,20,7,19,3.33
+infinitive,18,1,20,6.85
+object,18,65,21,5.21
+mouth,16,103,22,3.33
+predicate,14,0,23,5.2
+teeth,14,103,24,5.6
+clause,13,3,25,5.5
+consonant,13,18,26,5
+phrases,12,69,27,4.8
+lips,11,69,28,3
+modifier,10,5,29,5.11
+voice,10,226,30,1.4
+vocal cords,8,NA,31,NA
+diction,6,NA,32,NA
+larynx,6,NA,33,NA
+syllables,6,NA,34,NA
+noises,5,NA,35,NA
+talking,5,NA,36,NA
+throat,5,NA,37,NA
+articulation,4,NA,38,NA
+brain,4,NA,39,NA
+exclamation,4,NA,40,NA
+object of preposit,4,NA,41,NA
+predicate adjectiv,4,NA,42,NA
+pronunciation,4,NA,43,NA
+tone,4,NA,44,NA
+antecedent,3,NA,45,NA
+appositive,3,NA,46,NA
+expletive,3,NA,47,NA
+grammer,3,NA,48,NA
+language,3,NA,49,NA
+metaphor,3,NA,50,NA
+palate,3,NA,51,NA
+paragraph,3,NA,52,NA
+predicate noun,3,NA,53,NA
+proper noun,3,NA,54,NA
+simile,3,NA,55,NA
+uvula,3,NA,56,NA
+verbal,3,NA,57,NA
+vocabulary,3,NA,58,NA
+alphabet,2,NA,59,NA
+articulators,2,NA,60,NA
+comma,2,NA,61,NA
+compound,2,NA,62,NA
+conversation,2,NA,63,NA
+diaphragm,2,NA,64,NA
+ear,2,NA,65,NA
+enunciation,2,NA,66,NA
+hearing,2,NA,67,NA
+inflection,2,NA,68,NA
+jaw,2,NA,69,NA
+letters,2,NA,70,NA
+lisp,2,NA,71,NA
+meanings,2,NA,72,NA
+message,2,NA,73,NA
+movements,2,NA,74,NA
+phoneme,2,NA,75,NA
+pitch,2,NA,76,NA
+predicate nominati,2,NA,77,NA
+syntax,2,NA,78,NA
+verb clause,2,NA,79,NA

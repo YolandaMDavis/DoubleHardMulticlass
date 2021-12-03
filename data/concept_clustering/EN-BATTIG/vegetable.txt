@@ -1,0 +1,53 @@
+word,freq,frequency,rank,rfreq
+carrot,316,1,1,2.73
+pea,308,0,2,3.25
+corn,247,34,3,4.46
+bean,237,5,4,4.06
+potato,224,15,5,3.51
+tomato,215,4,6,3.55
+lettuce,189,0,7,4.06
+spinach,163,2,8,4.37
+asparagus,138,1,9,5.36
+broccoli,126,0,10,5.13
+celery,96,4,11,4.43
+cabbage,94,4,12,4.56
+string beans,76,0,13,4
+cauliflower,71,1,14,5.74
+beets,63,2,15,4.47
+lima beans,62,0,16,4.84
+squash,60,2,17,5.6
+onions,47,4,18,4.73
+radishes,46,8,19,6.21
+brussels sprouts,41,0,20,5.89
+cucumber,40,0,21,5.92
+turnip,31,1,22,5.42
+green beans,30,0,23,3.88
+kale,20,1,24,6
+parsley,15,1,25,6.1
+peppers,13,13,26,6.78
+green peppers,10,0,27,3.57
+eggplant,8,NA,28,NA
+greens,8,NA,29,NA
+rice,6,NA,30,NA
+artichokes,5,NA,31,NA
+okra,5,NA,32,NA
+sauerkraut,5,NA,33,NA
+collards,4,NA,34,NA
+peanut,4,NA,35,NA
+rhubarb,4,NA,36,NA
+turnip greens,4,NA,37,NA
+wax beans,4,NA,38,NA
+yellow beans,3,NA,39,NA
+avocado,2,NA,40,NA
+baked beans,2,NA,41,NA
+escarole,2,NA,42,NA
+mushroom,2,NA,43,NA
+parsnips,2,NA,44,NA
+pear,2,NA,45,NA
+pickle,2,NA,46,NA
+pumpkin,2,NA,47,NA
+rutabaga,2,NA,48,NA
+succotash,2,NA,49,NA
+sweet potatoes,2,NA,50,NA
+watercress,2,NA,51,NA
+watermelon,2,NA,52,NA

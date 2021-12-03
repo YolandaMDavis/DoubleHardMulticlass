@@ -1,0 +1,8 @@
+dog
+elephant
+cow
+cat
+lion
+pig
+snail
+turtle

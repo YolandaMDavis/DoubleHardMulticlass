@@ -1,0 +1,47 @@
+word,freq,frequency,rank,rfreq
+aunt,432,22,1,2.8
+uncle,427,57,2,3.55
+father,373,183,3,3.92
+mother,370,216,4,3.44
+brother,354,73,5,5.09
+sister,351,38,6,5.08
+cousin,340,51,7,5.83
+grandmother,314,9,8,6.79
+grandfather,304,12,9,7.15
+nephew,143,9,10,7.44
+niece,138,8,11,7.02
+husband,46,131,12,7.37
+son,43,166,13,7.81
+daughter,41,72,14,8.58
+mother-in-law,41,1,15,7.43
+brother-in-law,38,5,16,7.33
+wife,37,228,17,4.43
+great-aunt,34,0,18,8.96
+sister-in-law,33,2,19,7.61
+father-in-law,27,0,20,8.63
+grandparents,21,3,21,6.9
+second cousin,17,0,22,6.31
+grandmom,17,13,23,6.93
+great-uncle,16,0,24,8.64
+grandpop,14,0,25,6.92
+great-grandfather,12,2,26,9.71
+great-grandmother,11,1,27,7.4
+in-laws,11,0,28,7.86
+dad,9,NA,29,NA
+mom,9,NA,30,NA
+children,8,NA,31,NA
+grandson,7,NA,32,NA
+granddaughter,6,NA,33,NA
+parents,5,NA,34,NA
+stepfather,5,NA,35,NA
+stepsister,4,NA,36,NA
+first cousin,3,NA,37,NA
+godmother,3,NA,38,NA
+godparents,3,NA,39,NA
+half brother,3,NA,40,NA
+half sister,3,NA,41,NA
+stepbrother,3,NA,42,NA
+stepmother,3,NA,43,NA
+stepson,3,NA,44,NA
+great-grandparents,2,NA,45,NA
+son-in-law,2,NA,46,NA

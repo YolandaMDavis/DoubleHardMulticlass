@@ -1,0 +1,85 @@
+word,freq,frequency,rank,rfreq
+chair,440,66,1,1.41
+table,408,198,2,2.85
+bed,328,127,3,3.63
+sofa,232,6,4,3.48
+desk,230,65,5,4.54
+lamp,227,18,6,5.28
+couch,168,12,7,3.35
+dresser,143,1,8,6.11
+television,105,50,9,6.05
+stool,72,8,10,5.21
+bureau,64,43,11,6.09
+rug,51,13,12,5.17
+coffee table,44,0,13,5.89
+bookcase,43,2,14,6.36
+cabinet,41,17,15,6.38
+chest,41,53,16,6.27
+piano,30,38,17,5.81
+footstool,29,1,18,5.53
+buffet,27,6,19,6.4
+end table,24,0,20,6.45
+radio,24,120,21,6.92
+stereo,18,12,22,4.56
+hi-fi,17,1,23,7.5
+picture,15,162,24,6.1
+davenport,13,4,25,4.56
+love seat,13,0,26,6.2
+bench,12,35,27,5
+divan,11,6,28,5.33
+hassock,11,0,29,5.57
+lounge,11,9,30,4.83
+mirror,11,27,31,5.43
+refrigerator,11,23,32,8
+chest of drawers,10,0,33,7.38
+china closet,10,0,34,7.6
+night table,10,0,35,7.1
+rocker,10,4,36,7.25
+stove,10,15,37,8.25
+night stand,8,NA,38,NA
+drawers,7,NA,39,NA
+hutch,7,NA,40,NA
+lounge chair,7,NA,41,NA
+shelf,7,NA,42,NA
+vanity,7,NA,43,NA
+bar,6,NA,44,NA
+chaise lounge,6,NA,45,NA
+vanity table,6,NA,46,NA
+ashtray,5,NA,47,NA
+breakfront,5,NA,48,NA
+cupboard,5,NA,49,NA
+easy chair,5,NA,50,NA
+ottoman,5,NA,51,NA
+rocking chair,5,NA,52,NA
+drapes,4,NA,53,NA
+organ,4,NA,54,NA
+record player,4,NA,55,NA
+sink,4,NA,56,NA
+stand,4,NA,57,NA
+armchair,3,NA,58,NA
+cedar chest,3,NA,59,NA
+clock,3,NA,60,NA
+counter,3,NA,61,NA
+crib,3,NA,62,NA
+cushion,3,NA,63,NA
+dinette,3,NA,64,NA
+lights,3,NA,65,NA
+magazine rack,3,NA,66,NA
+phonograph,3,NA,67,NA
+settee,3,NA,68,NA
+sewing machine,3,NA,69,NA
+vase,3,NA,70,NA
+cadenza,2,NA,71,NA
+chaise,2,NA,72,NA
+closet,2,NA,73,NA
+cot,2,NA,74,NA
+curtains,2,NA,75,NA
+dining-room table,2,NA,76,NA
+high chair,2,NA,77,NA
+kitchen table,2,NA,78,NA
+pillow,2,NA,79,NA
+room divider,2,NA,80,NA
+round table,2,NA,81,NA
+secretary,2,NA,82,NA
+seat,2,NA,83,NA
+side table,2,NA,84,NA

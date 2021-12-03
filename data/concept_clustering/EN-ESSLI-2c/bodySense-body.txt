@@ -1,0 +1,5 @@
+listen
+smell
+feel
+look
+notice

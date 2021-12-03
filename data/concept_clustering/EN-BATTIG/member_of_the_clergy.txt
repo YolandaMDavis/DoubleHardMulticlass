@@ -1,0 +1,44 @@
+word,freq,frequency,rank,rfreq
+priest,400,16,1,1.74
+minister,320,61,2,2.3
+rabbi,287,13,3,3.08
+pope,179,40,4,5
+bishop,168,18,5,4.73
+father,142,183,6,3.44
+pastor,121,17,7,3.23
+cardinal,119,15,8,5.28
+reverend,116,21,9,4.13
+nun,104,2,10,4.37
+preacher,84,11,11,3.57
+monk,76,16,12,4.8
+brother,71,73,13,5
+archbishop,70,8,14,5.54
+deacon,46,5,15,4.88
+sister,44,38,16,4.74
+monsignor,19,0,17,5.43
+chaplain,16,5,18,3.55
+doctor,14,100,19,6.14
+cantor,13,2,20,5.55
+friar,12,1,21,6.43
+clergyman,9,NA,22,NA
+evangelist,9,NA,23,NA
+elder,8,NA,24,NA
+rector,8,NA,25,NA
+missionary,7,NA,26,NA
+subdeacon,7,NA,27,NA
+abbot,6,NA,28,NA
+parson,6,NA,29,NA
+deaconess,5,NA,30,NA
+layman,5,NA,31,NA
+padre,5,NA,32,NA
+vicar,4,NA,33,NA
+saint,3,NA,34,NA
+sexton,3,NA,35,NA
+catholic,2,NA,36,NA
+cleric,2,NA,37,NA
+high priest,2,NA,38,NA
+right reverend,2,NA,39,NA
+jesuit,2,NA,40,NA
+lay leader,2,NA,41,NA
+mother,2,NA,42,NA
+revivalist,2,NA,43,NA

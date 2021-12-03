@@ -1,0 +1,102 @@
+word,freq,frequency,rank,rfreq
+salt,412,46,1,1.97
+pepper,411,13,2,2.77
+sugar,168,34,3,3.28
+garlic,120,4,4,4.43
+vanilla,120,1,5,2.38
+cinnamon,118,0,6,5.09
+cloves,94,2,7,4.91
+paprika,90,2,8,4.74
+spices,90,3,9,3.93
+oregano,73,0,10,4.73
+ketchup,68,1,11,4.71
+onions,62,4,12,5.13
+mustard,61,20,13,5.42
+accent,59,9,14,4.4
+chocolate,43,9,15,3.64
+nutmeg,42,4,16,5.13
+onion salt,41,0,17,5.3
+vinegar,39,9,18,4.61
+butter,31,27,19,4.95
+lemon,31,18,20,4.71
+thyme,31,0,21,5.18
+parsley,27,1,22,5.26
+bay leaves,24,0,23,6.36
+almond,21,1,24,3.17
+herbs,20,3,25,5.23
+sage,19,2,26,4.54
+worcestershire sau,16,0,27,4.7
+tobasco sauce,16,0,28,4.5
+a.1. sauce,15,0,29,5.6
+chives,15,1,30,5.86
+ginger,15,2,31,6
+mint,15,7,32,4.5
+allspice,14,0,33,4.88
+mayonnaise,14,2,34,6.09
+sauce,14,20,35,5.21
+seasoning,13,2,36,3.92
+wine,12,72,37,4.6
+chili powder,11,0,38,5.1
+horseradish,11,2,39,5.6
+celery seed,10,0,40,5.44
+oil,10,93,41,4.89
+basil,9,NA,42,NA
+celery salt,9,NA,43,NA
+curry,7,NA,44,NA
+red pepper,7,NA,45,NA
+strawberry,7,NA,46,NA
+syrup,7,NA,47,NA
+anise,6,NA,48,NA
+cheese,6,NA,49,NA
+lime,6,NA,50,NA
+orange,6,NA,51,NA
+relish,6,NA,52,NA
+rum,6,NA,53,NA
+dressing,5,NA,54,NA
+gravy,5,NA,55,NA
+milk,5,NA,56,NA
+peppermint,5,NA,57,NA
+saccharin,5,NA,58,NA
+salad dressing,5,NA,59,NA
+soy sauce,5,NA,60,NA
+steak sauce,5,NA,61,NA
+anchovies,4,NA,62,NA
+cherry,4,NA,63,NA
+cream,4,NA,64,NA
+extract,4,NA,65,NA
+marjoram,4,NA,66,NA
+monosodium glutama,4,NA,67,NA
+poultry seasoning,4,NA,68,NA
+rosemary,4,NA,69,NA
+sesame,4,NA,70,NA
+alcohol,3,NA,71,NA
+artificial,3,NA,72,NA
+butterscotch,3,NA,73,NA
+cayenne,3,NA,74,NA
+charcoal,3,NA,75,NA
+eggs,3,NA,76,NA
+food coloring,3,NA,77,NA
+green pepper,3,NA,78,NA
+margarine,3,NA,79,NA
+mushroom,3,NA,80,NA
+raspberry,3,NA,81,NA
+tartar sauce,3,NA,82,NA
+turmeric,3,NA,83,NA
+vegetable oil,3,NA,84,NA
+walnut,3,NA,85,NA
+apple,2,NA,86,NA
+bacon,2,NA,87,NA
+barbecue sauce,2,NA,88,NA
+barley,2,NA,89,NA
+brandy,2,NA,90,NA
+celery,2,NA,91,NA
+coconut,2,NA,92,NA
+coffee,2,NA,93,NA
+dill,2,NA,94,NA
+flour,2,NA,95,NA
+maise,2,NA,96,NA
+maple,2,NA,97,NA
+meat tenderizer,2,NA,98,NA
+pineapple,2,NA,99,NA
+tenderizer,2,NA,100,NA
+wintergreen,2,NA,101,NA

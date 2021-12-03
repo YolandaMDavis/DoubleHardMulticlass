@@ -1,0 +1,82 @@
+word,freq,frequency,rank,rfreq
+shoe,383,14,1,1.26
+boots,343,20,2,2.63
+sandals,257,5,3,3.57
+socks,220,7,4,3.21
+slippers,159,7,5,4.3
+loafers,109,0,6,4.43
+tennis shoes,101,0,7,4.39
+rubbers,88,0,8,3.98
+moccasins,79,0,9,4.45
+snowshoes,76,0,10,4.03
+high heels,67,0,11,5.15
+stockings,60,5,12,4.47
+thongs,55,0,13,5.2
+flats,38,3,14,5.73
+skis,37,1,15,4.32
+galoshes,36,0,16,4.32
+sneakers,35,3,17,4.89
+heels,25,23,18,5.47
+oxfords,20,0,19,6.13
+skates,20,1,20,5
+pumps,15,5,21,6.67
+ice-skates,14,0,22,4.5
+cleats,13,0,23,5.54
+gym shoes,12,0,24,4.5
+nylons,12,0,25,5.22
+spikes,12,3,26,4.9
+track shoes,12,0,27,3.43
+clogs,11,0,28,3.5
+saddle shoes,10,0,29,5.33
+bedroom slippers,9,NA,30,NA
+ski boots,9,NA,31,NA
+weejuns,9,NA,32,NA
+combat boots,8,NA,33,NA
+roller skates,7,NA,34,NA
+water skis,7,NA,35,NA
+flippers,6,NA,36,NA
+football shoes,6,NA,37,NA
+hose,6,NA,38,NA
+overshoes,6,NA,39,NA
+spike shoes,6,NA,40,NA
+bowling shoe,5,NA,41,NA
+cowboy boot,5,NA,42,NA
+flip-flops,5,NA,43,NA
+peds,5,NA,44,NA
+stacked heels,5,NA,45,NA
+swim fins,5,NA,46,NA
+brake,4,NA,47,NA
+dress shoes,4,NA,48,NA
+golf shoes,4,NA,49,NA
+house slipper,4,NA,50,NA
+mukluk,4,NA,51,NA
+bootie,3,NA,52,NA
+brace,3,NA,53,NA
+climbing spikes,3,NA,54,NA
+clutch,3,NA,55,NA
+knee boot,3,NA,56,NA
+scuffs,3,NA,57,NA
+shoelace,3,NA,58,NA
+slings,3,NA,59,NA
+snow skis,3,NA,60,NA
+zori,3,NA,61,NA
+anklet,2,NA,62,NA
+ballet slippers,2,NA,63,NA
+barefoot,2,NA,64,NA
+baseball shoes,2,NA,65,NA
+baseball spikes,2,NA,66,NA
+cast,2,NA,67,NA
+desert boots,2,NA,68,NA
+dress cordovans,2,NA,69,NA
+engineer boots,2,NA,70,NA
+gas,2,NA,71,NA
+hosiery,2,NA,72,NA
+leather,2,NA,73,NA
+leotards,2,NA,74,NA
+pedal,2,NA,75,NA
+rain boots,2,NA,76,NA
+riding boots,2,NA,77,NA
+shoestring,2,NA,78,NA
+shower shoes,2,NA,79,NA
+walking shoes,2,NA,80,NA
+wooden shoes,2,NA,81,NA

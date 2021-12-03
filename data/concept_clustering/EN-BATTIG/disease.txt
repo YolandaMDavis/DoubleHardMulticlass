@@ -1,0 +1,102 @@
+word,freq,frequency,rank,rfreq
+cancer,316,25,1,2.34
+tuberculosis,210,6,2,3.02
+measles,168,2,3,3.45
+heart disease,133,0,4,3.2
+polio,126,1,5,3.59
+chicken pox,116,0,6,3.93
+mumps,115,0,7,4.33
+cold,90,171,8,3.24
+smallpox,71,2,9,3.42
+leukemia,63,3,10,2.55
+mononucleosis,57,0,11,3.59
+malaria,54,3,12,2.78
+syphilis,51,0,13,3.78
+pneumonia,50,3,14,3.41
+flu,48,8,15,4
+leprosy,44,1,16,3.58
+typhoid,43,2,17,3.59
+scarlet fever,39,0,18,4.26
+diphtheria,30,0,19,4.37
+venereal disease,30,0,20,3.16
+diabetes,26,4,21,3.47
+gonorrhea,25,0,22,4.77
+yellow fever,25,0,23,4.14
+arthritis,24,3,24,3.67
+multiple sclerosis,21,0,25,4.08
+rheumatic fever,19,0,26,3.56
+muscular dystrophy,15,0,27,5.2
+whooping cough,15,0,28,5.57
+cholera,13,1,29,3
+hepatitus,13,3,30,3.88
+parkinson's diseas,13,0,31,4.29
+alcoholism,12,1,32,3.3
+beriberi,12,2,33,2.44
+rickets,12,0,34,4.4
+virus,11,13,35,4.4
+rabies,9,NA,36,NA
+mental illness,8,NA,37,NA
+tetanus,8,NA,38,NA
+arteriosclerosis,7,NA,39,NA
+athlete's foot,7,NA,40,NA
+cerebral palsy,7,NA,41,NA
+dysentery,7,NA,42,NA
+emphysema,7,NA,43,NA
+encephalitis,7,NA,44,NA
+hemophilia,7,NA,45,NA
+influenza,7,NA,46,NA
+pick's disease,7,NA,47,NA
+plague,7,NA,48,NA
+scurvy,7,NA,49,NA
+yellow jaundice,7,NA,50,NA
+typhus,6,NA,51,NA
+asthma,5,NA,52,NA
+bronchitis,5,NA,53,NA
+sleeping sickness,5,NA,54,NA
+tonsilitis,5,NA,55,NA
+brucellosis,4,NA,56,NA
+bubonic plague,4,NA,57,NA
+coronary,4,NA,58,NA
+epilepsy,4,NA,59,NA
+hay fever,4,NA,60,NA
+hodgkin's disease,4,NA,61,NA
+palsy,4,NA,62,NA
+stroke,4,NA,63,NA
+trench mouth,4,NA,64,NA
+addison's disease,3,NA,65,NA
+black plague,3,NA,66,NA
+botulism,3,NA,67,NA
+coronary thrombosi,3,NA,68,NA
+cough,3,NA,69,NA
+diarrhea,3,NA,70,NA
+elephantiasis,3,NA,71,NA
+fungus,3,NA,72,NA
+kidney disease,3,NA,73,NA
+meningitis,3,NA,74,NA
+rheumatism,3,NA,75,NA
+strep throat,3,NA,76,NA
+tumors,3,NA,77,NA
+allergy,2,NA,78,NA
+anthrax,2,NA,79,NA
+bad,2,NA,80,NA
+cirrhosis of the l,2,NA,81,NA
+consumption,2,NA,82,NA
+fever,2,NA,83,NA
+food poisoning,2,NA,84,NA
+gangrene,2,NA,85,NA
+glaucoma,2,NA,86,NA
+infantile paralysi,2,NA,87,NA
+jaundice,2,NA,88,NA
+liver,2,NA,89,NA
+lockjaw,2,NA,90,NA
+lung,2,NA,91,NA
+neurosis,2,NA,92,NA
+paralysis,2,NA,93,NA
+psoriasis,2,NA,94,NA
+rocky mountain spo,2,NA,95,NA
+roseola,2,NA,96,NA
+schizophrenia,2,NA,97,NA
+sore throat,2,NA,98,NA
+spinal meningitis,2,NA,99,NA
+thyroid,2,NA,100,NA
+varicose veins,2,NA,101,NA

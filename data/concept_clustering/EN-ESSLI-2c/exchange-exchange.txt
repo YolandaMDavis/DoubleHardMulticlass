@@ -1,0 +1,5 @@
+acquire
+lend
+buy
+sell
+pay

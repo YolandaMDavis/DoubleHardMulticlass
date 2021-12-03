@@ -1,0 +1,215 @@
+word,freq,frequency,rank,rfreq
+u.maryland,251,23,1,1.33
+u.illinois,168,40,2,3.89
+harvard,160,34,3,4.21
+yale,133,13,4,4.46
+ucla,92,0,5,4.98
+princeton,84,7,6,5.05
+u.michigan,65,21,7,4.81
+duke,57,11,8,4.18
+penn state,56,5,9,3.88
+northwestern,48,4,10,5
+u.wisconsin,45,19,11,4.5
+mit,42,0,12,4.04
+new york u.,39,301,13,5.16
+u.virginia,39,75,14,4.28
+purdue,38,12,15,4.73
+southern illinois,38,0,16,5
+cornell,37,5,17,4.56
+indiana u.,36,13,18,4.29
+u.chicago,36,98,19,4.2
+american u.,33,569,20,3.88
+dartmouth,29,30,21,5.63
+ohio state,29,38,22,5.46
+u.california,29,65,23,4.94
+columbia,28,18,24,5.47
+stanford,28,1,25,4.8
+u.iowa,28,4,26,4.3
+u.north carolina,28,25,27,5.11
+georgetown u.,27,3,28,4.11
+george washington,26,206,29,4
+northern illinois,26,0,30,4.2
+u.miami,26,22,31,4.28
+michigan state,23,21,32,6
+north carolina sta,21,25,33,5.48
+rutgers,21,0,34,5.11
+u.florida,21,20,35,5.29
+u.pennsylvania,21,45,36,3.47
+vassar,21,0,37,5.3
+oxford,20,18,38,4.57
+bradley,19,4,39,4.75
+notre dame,18,1,40,4.5
+u.s. naval academy,18,0,41,5.53
+u.minnesota,18,13,42,5
+u.south carolina,18,25,43,6.38
+u.washington,18,206,44,5.2
+brown u.,17,0,45,5.79
+clemson,17,0,46,4.53
+western illinois,17,0,47,4.5
+berkeley,16,2,48,4.5
+cal tech,16,1,49,4.83
+radcliffe,16,0,50,6.25
+johns hopkins,15,13,51,3.87
+u.so. california,15,0,52,3
+eastern illinois,14,0,53,4
+illinois institute,14,0,54,4
+u.pittsburg,14,25,55,4.07
+u.texas,14,69,56,5.09
+bucknell,12,0,57,3.67
+tulane,12,1,58,5.44
+western maryland,12,0,59,3.92
+catholic u.,11,84,60,4.27
+georgia tech,11,46,61,5.18
+goucher,11,0,62,5.36
+loyola,11,0,63,5.6
+maryland jr.c.,11,23,64,3.91
+u.baltimore,11,22,65,3.09
+william and mary,11,0,66,4
+boston u.,10,61,67,5.25
+cambridge,10,15,68,4.33
+millikin,10,0,69,4.5
+syracuse u.,10,1,70,4.89
+towson,10,0,71,4
+u.colorado,10,13,72,5
+u.west virginia,10,75,73,5.2
+wake forest,10,0,74,5.4
+brandeis,9,NA,75,NA
+frostburg,9,NA,76,NA
+miami u.,9,NA,77,NA
+normal,9,NA,78,NA
+ohio u.,9,NA,79,NA
+u. delaware,9,NA,80,NA
+texas a.&m.,8,NA,81,NA
+drake,7,NA,82,NA
+gettysburg c.,7,NA,83,NA
+louisiana state u.,7,NA,84,NA
+trinity c.,7,NA,85,NA
+u. oklahoma,7,NA,86,NA
+wellesley,7,NA,87,NA
+colgate,6,NA,88,NA
+de paul,6,NA,89,NA
+drexel institute o,6,NA,90,NA
+iowa state u.,6,NA,91,NA
+mount saint mary's,6,NA,92,NA
+smith,6,NA,93,NA
+u. alabama,6,NA,94,NA
+west point,6,NA,95,NA
+howard u.,5,NA,96,NA
+illinois state,5,NA,97,NA
+knox,5,NA,98,NA
+new york city c.,5,NA,99,NA
+salisbury state,5,NA,100,NA
+south carolina sta,5,NA,101,NA
+temple,5,NA,102,NA
+u. cincinnati,5,NA,103,NA
+u. denver,5,NA,104,NA
+u. georgia,5,NA,105,NA
+u. kentucky,5,NA,106,NA
+u. mississippi,5,NA,107,NA
+u. south florida,5,NA,108,NA
+virginia tech.,5,NA,109,NA
+virginia military,5,NA,110,NA
+wesleyan,5,NA,111,NA
+western michigan,5,NA,112,NA
+arizona state,4,NA,113,NA
+arts and science,4,NA,114,NA
+barnard,4,NA,115,NA
+education,4,NA,116,NA
+florida state,4,NA,117,NA
+franklin and marsh,4,NA,118,NA
+hood,4,NA,119,NA
+monmouth,4,NA,120,NA
+oberlin,4,NA,121,NA
+pgcc,4,NA,122,NA
+queens,4,NA,123,NA
+sorbonne,4,NA,124,NA
+st. joseph's,4,NA,125,NA
+swarthmore,4,NA,126,NA
+u. arizona,4,NA,127,NA
+u. hawaii,4,NA,128,NA
+u. kansas,4,NA,129,NA
+u. massachusetts,4,NA,130,NA
+virginia polytechn,4,NA,131,NA
+washington and lee,4,NA,132,NA
+amherst,3,NA,133,NA
+augustana,3,NA,134,NA
+baltimore jr. c.,3,NA,135,NA
+depauw,3,NA,136,NA
+emory,3,NA,137,NA
+kansas state,3,NA,138,NA
+learning,3,NA,139,NA
+lehigh,3,NA,140,NA
+macmurray,3,NA,141,NA
+morgan state,3,NA,142,NA
+north central,3,NA,143,NA
+parsons,3,NA,144,NA
+randolf-macon,3,NA,145,NA
+rockford,3,NA,146,NA
+sarah lawrence,3,NA,147,NA
+school,3,NA,148,NA
+southern methodist,3,NA,149,NA
+strayer,3,NA,150,NA
+sweet briar,3,NA,151,NA
+u. arkansaw,3,NA,152,NA
+u. st. louis,3,NA,153,NA
+u.s. air force aca,3,NA,154,NA
+u.s. military acad,3,NA,155,NA
+villanova,3,NA,156,NA
+allegheny,2,NA,157,NA
+antioch,2,NA,158,NA
+aurora,2,NA,159,NA
+bennington,2,NA,160,NA
+blackburn,2,NA,161,NA
+brooklyn,2,NA,162,NA
+bryn mawr,2,NA,163,NA
+carnegie institute,2,NA,164,NA
+central michigan,2,NA,165,NA
+chatham,2,NA,166,NA
+chicago teacher's,2,NA,167,NA
+classes,2,NA,168,NA
+colby,2,NA,169,NA
+danville jr. c.,2,NA,170,NA
+denison,2,NA,171,NA
+dickinson c.,2,NA,172,NA
+dunbarton,2,NA,173,NA
+fordham,2,NA,174,NA
+furman,2,NA,175,NA
+grinnell,2,NA,176,NA
+hollins,2,NA,177,NA
+holy cross,2,NA,178,NA
+lewis,2,NA,179,NA
+marietta,2,NA,180,NA
+marjorie webster,2,NA,181,NA
+marymount,2,NA,182,NA
+middlebury,2,NA,183,NA
+murray state,2,NA,184,NA
+pembroke,2,NA,185,NA
+phys. ed.,2,NA,186,NA
+potomac state,2,NA,187,NA
+rice institute,2,NA,188,NA
+ripon,2,NA,189,NA
+rochester,2,NA,190,NA
+roosevelt,2,NA,191,NA
+seton hall u.,2,NA,192,NA
+shepherd,2,NA,193,NA
+st. francis,2,NA,194,NA
+st. mary's seminar,2,NA,195,NA
+study,2,NA,196,NA
+thurman,2,NA,197,NA
+tufts,2,NA,198,NA
+u. connecticut,2,NA,199,NA
+u. detroit,2,NA,200,NA
+u. missouri,2,NA,201,NA
+u. montana,2,NA,202,NA
+u. new mexico,2,NA,203,NA
+u. oregon,2,NA,204,NA
+u. tennessee,2,NA,205,NA
+u. utah,2,NA,206,NA
+u. vermont,2,NA,207,NA
+upper iowa,2,NA,208,NA
+u.s. coast guard a,2,NA,209,NA
+wesley,2,NA,210,NA
+western reserve,2,NA,211,NA
+wheaton,2,NA,212,NA
+williams,2,NA,213,NA
+work,2,NA,214,NA

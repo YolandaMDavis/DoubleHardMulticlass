@@ -1,0 +1,36 @@
+word,freq,frequency,rank,rfreq
+diamond,435,8,1,1.52
+ruby,419,0,2,2.25
+emerald,329,4,3,3.24
+sapphire,245,0,4,3.87
+pearl,177,6,5,3.95
+opal,100,0,6,4.73
+jade,84,1,7,4.44
+topaz,72,0,8,4.73
+amethyst,62,0,9,4.76
+onyx,59,0,10,5.22
+garnet,44,1,11,4.74
+turquoise,33,3,12,5.37
+gem,30,3,13,2.75
+aquamarine,27,0,14,5
+gold,23,52,15,4
+silver,16,29,16,4.45
+zircon,14,0,17,5.25
+quartz,12,1,18,3.33
+moonstone,6,NA,19,NA
+star sapphire,6,NA,20,NA
+crystal,5,NA,21,NA
+alexandrite,4,NA,22,NA
+cameo,4,NA,23,NA
+jewel,4,NA,24,NA
+bloodstone,3,NA,25,NA
+platinum,3,NA,26,NA
+uranium,3,NA,27,NA
+amherst,2,NA,28,NA
+black pearl,2,NA,29,NA
+coral ebony,2,NA,30,NA
+granite,2,NA,31,NA
+lapis lazuli,2,NA,32,NA
+marble,2,NA,33,NA
+peridot,2,NA,34,NA
+rhinestone,2,NA,35,NA

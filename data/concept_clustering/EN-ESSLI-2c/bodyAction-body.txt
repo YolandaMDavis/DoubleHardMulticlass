@@ -1,0 +1,5 @@
+eat
+breathe
+drink
+smile
+cry

@@ -1,0 +1,123 @@
+word,freq,frequency,rank,rfreq
+knife,405,76,1,2.61
+gun,394,118,2,1.48
+rifle,163,63,3,3.2
+bomb,122,36,4,4.84
+club,112,145,5,4.72
+sword,110,5,6,4.02
+bow and arrow,94,0,7,4.16
+pistol,92,27,8,3.85
+rope,84,15,9,4.82
+cannon,66,7,10,4.74
+spear,51,7,11,4.79
+fists,46,14,12,4.5
+stick,39,39,13,5
+hand grenade,37,0,14,5.23
+machine gun,36,1,15,5.29
+axe,34,6,16,5.14
+brass knuckles,33,0,17,4.33
+tank,31,12,18,5.17
+poison,30,10,19,5.22
+missile,28,48,20,5.7
+bayonet,27,6,21,4.94
+chain,27,50,22,4.2
+whip,27,19,23,4.2
+hammer,25,9,24,5.18
+rock,23,75,25,6.21
+hand,21,431,26,4
+arrow,20,14,27,3.31
+stone,20,58,28,5
+automobile,18,50,29,6.5
+bazooka,18,0,30,5.08
+glass,18,99,31,5.31
+slingshot,18,1,32,3.9
+blackjack,16,2,33,4.63
+revolver,16,14,34,3.82
+shotgun,15,8,35,4.25
+pipe,13,20,36,4.55
+a-bomb,12,0,37,4
+airplane,12,11,38,6.4
+bow,12,15,39,3.64
+dagger,12,0,40,4.22
+gas,12,98,41,6.17
+ice pick,12,0,42,4.85
+foot,11,70,43,4.78
+hatchet,11,4,44,5
+mortar,11,11,45,5.43
+scissors,11,1,46,4.6
+lance,10,3,47,5.13
+switchblade,10,1,48,4.38
+lead pipe,9,NA,49,NA
+razor blade,9,NA,50,NA
+rocket,9,NA,51,NA
+bat,8,NA,52,NA
+grenade,8,NA,53,NA
+words,8,NA,54,NA
+pin,7,NA,55,NA
+torpedo,7,NA,56,NA
+artillery,6,NA,57,NA
+bottle,6,NA,58,NA
+bullet,6,NA,59,NA
+candlestick,6,NA,60,NA
+crossbow,6,NA,61,NA
+flamethrower,6,NA,62,NA
+hat pin,6,NA,63,NA
+poison dart,6,NA,64,NA
+saber,6,NA,65,NA
+tear gas,6,NA,66,NA
+crowbar,5,NA,67,NA
+dart,5,NA,68,NA
+h-bomb,5,NA,69,NA
+iron bar,5,NA,70,NA
+wrench,5,NA,71,NA
+acid,4,NA,72,NA
+blowgun,4,NA,73,NA
+machete,4,NA,74,NA
+nightstick,4,NA,75,NA
+pitchfork,4,NA,76,NA
+scarf,4,NA,77,NA
+tire iron,4,NA,78,NA
+tomahawk,4,NA,79,NA
+blade,3,NA,80,NA
+boat,3,NA,81,NA
+brick,3,NA,82,NA
+chair,3,NA,83,NA
+fighter plane,3,NA,84,NA
+fire,3,NA,85,NA
+fork,3,NA,86,NA
+harpoon,3,NA,87,NA
+howitzer,3,NA,88,NA
+judo,3,NA,89,NA
+letter opener,3,NA,90,NA
+razor,3,NA,91,NA
+recoilless rifle,3,NA,92,NA
+screwdriver,3,NA,93,NA
+shoes,3,NA,94,NA
+stiletto,3,NA,95,NA
+arm,2,NA,96,NA
+billy club,2,NA,97,NA
+bolo,2,NA,98,NA
+book,2,NA,99,NA
+can of hairspray,2,NA,100,NA
+cane,2,NA,101,NA
+catapult,2,NA,102,NA
+forty-five pistol,2,NA,103,NA
+germs,2,NA,104,NA
+hose,2,NA,105,NA
+javelin,2,NA,106,NA
+kill,2,NA,107,NA
+knuckles,2,NA,108,NA
+laser,2,NA,109,NA
+metal,2,NA,110,NA
+muscles,2,NA,111,NA
+nail,2,NA,112,NA
+nuclear bomb,2,NA,113,NA
+peashooter,2,NA,114,NA
+piano wire,2,NA,115,NA
+reason,2,NA,116,NA
+rod,2,NA,117,NA
+shoot,2,NA,118,NA
+shovel,2,NA,119,NA
+sickle,2,NA,120,NA
+tear-gas gun,2,NA,121,NA
+war,2,NA,122,NA

@@ -1,0 +1,129 @@
+word,freq,frequency,rank,rfreq
+jazz,341,99,1,2.55
+classical,321,33,2,2.36
+rock'n'roll,291,1,3,2.84
+popular,143,98,4,3.38
+folk,138,35,5,3.68
+symphony,77,33,6,3.15
+opera,66,47,7,4.07
+blues,46,22,8,4.44
+modern,40,198,9,3.56
+country,38,324,10,3.87
+waltz,31,1,11,3.63
+hillbilly,27,3,12,4.54
+instrumental,26,11,13,5.41
+pop,26,8,14,6
+western,23,137,15,4.93
+baroque,22,11,16,3.3
+contemporary,22,63,17,4.38
+concerto,21,11,18,3.56
+dixieland,20,3,19,4.82
+concert,19,39,20,3.93
+semiclassical,18,0,21,3.2
+march,16,120,22,4.57
+rhythm and blues,16,1,23,3.83
+romantic,16,32,24,3.5
+sonata,16,9,25,3.13
+swing,16,24,26,6
+country and wester,15,0,27,4.6
+religious,15,165,28,4.64
+dance,14,90,29,5
+fast,13,78,30,4.6
+slow,13,60,31,5.33
+chamber,12,46,32,3.4
+spiritual,12,64,33,4.9
+ballad,11,8,34,5
+long-hair,10,1,35,4.38
+mood,10,37,36,4.3
+operetta,10,6,37,4.83
+orchestral,10,4,38,4.38
+song,10,70,39,2.67
+band,9,NA,40,NA
+bluegrass,9,NA,41,NA
+bossa nova,9,NA,42,NA
+hymns,9,NA,43,NA
+polka,9,NA,44,NA
+bop,8,NA,45,NA
+show tunes,8,NA,46,NA
+show music,7,NA,47,NA
+vocal,7,NA,48,NA
+beatles,6,NA,49,NA
+broadway,6,NA,50,NA
+calypso,6,NA,51,NA
+musicals,6,NA,52,NA
+soft,6,NA,53,NA
+spanish,6,NA,54,NA
+fugue,5,NA,55,NA
+minuet,5,NA,56,NA
+modern jazz,5,NA,57,NA
+movie theme,5,NA,58,NA
+bebop,4,NA,59,NA
+chorus,4,NA,60,NA
+flamenco,4,NA,61,NA
+fox-trot,4,NA,62,NA
+good,4,NA,63,NA
+melody,4,NA,64,NA
+ragtime,4,NA,65,NA
+rumba,4,NA,66,NA
+bach,3,NA,67,NA
+bad,3,NA,68,NA
+ballroom,3,NA,69,NA
+barbershop,3,NA,70,NA
+beethoven,3,NA,71,NA
+broadway hit,3,NA,72,NA
+cha-cha,3,NA,73,NA
+choral,3,NA,74,NA
+danceable,3,NA,75,NA
+frug,3,NA,76,NA
+hit tunes,3,NA,77,NA
+madrigal,3,NA,78,NA
+organ,3,NA,79,NA
+piano,3,NA,80,NA
+progressive,3,NA,81,NA
+renaissance,3,NA,82,NA
+solo,3,NA,83,NA
+tango,3,NA,84,NA
+twist,3,NA,85,NA
+violin,3,NA,86,NA
+background,2,NA,87,NA
+ballet,2,NA,88,NA
+brahms,2,NA,89,NA
+chanson,2,NA,90,NA
+choir,2,NA,91,NA
+christmas,2,NA,92,NA
+contata,2,NA,93,NA
+contemporary jazz,2,NA,94,NA
+current,2,NA,95,NA
+dance band,2,NA,96,NA
+dinner,2,NA,97,NA
+discotheque,2,NA,98,NA
+drums,2,NA,99,NA
+foreign,2,NA,100,NA
+guitar,2,NA,101,NA
+happy,2,NA,102,NA
+hawaiian,2,NA,103,NA
+honky-tonk,2,NA,104,NA
+impressionistic,2,NA,105,NA
+jitterbug,2,NA,106,NA
+latin american,2,NA,107,NA
+light,2,NA,108,NA
+lively,2,NA,109,NA
+loud,2,NA,110,NA
+lyric,2,NA,111,NA
+neoclassic,2,NA,112,NA
+offbeat,2,NA,113,NA
+oratorio,2,NA,114,NA
+overture,2,NA,115,NA
+percussion,2,NA,116,NA
+primitive,2,NA,117,NA
+progressive jazz,2,NA,118,NA
+quartet,2,NA,119,NA
+record,2,NA,120,NA
+rhapsody,2,NA,121,NA
+rock,2,NA,122,NA
+sad,2,NA,123,NA
+singing,2,NA,124,NA
+soothing,2,NA,125,NA
+soul,2,NA,126,NA
+sweet,2,NA,127,NA
+themes,2,NA,128,NA
