@@ -63,7 +63,9 @@ def create_word_idx_matrices(sentence_list):
 	return word2idx, idx2word
 
 """
-Script that runs all GloVe embedding tests for Unequal Representation: Analyzing Intersectional Biases in Word Embeddings 
+
+Script adapted from the below research for word2vec
+Unequal Representation: Analyzing Intersectional Biases in Word Embeddings 
 Using Representational Similarity Analysis by Michael Lepori, presented at COLING 2020
 """
 
@@ -78,19 +80,19 @@ def preprocess_data(corpus):
     return sent_list
 
 
-def get_glove_embeds(glove_path, dim, corpus):
-    # Get glove embeddings of all terms in the corpus
+def get_w2v_embeds(w2v_path, dim, corpus):
+    # Get w2v embeddings of all terms in the corpus
     word2idx, idx2word = create_word_idx_matrices([corpus])
     print("word idx matrices created")
-    glove = create_embedding_dictionary(glove_path, dim, word2idx, idx2word)
-    print("glove matrices created")
+    w2v = create_embedding_dictionary(w2v_path, dim, word2idx, idx2word)
+    print("w2v matrices created")
 
-    glove_embeds = []
+    w2v_embeds = []
 
     for word in corpus:
-        glove_embeds.append(glove[word2idx[word]])
+        w2v_embeds.append(w2v[word2idx[word]])
         
-    return np.array(glove_embeds)
+    return np.array(w2v_embeds)
 
 """
 make_concept and code that prints rsa scores as written for Unequal Representation: Analyzing Intersectional Biases in Word Embeddings 
@@ -155,7 +157,7 @@ def get_RSA3(sheet_path, embedding_path, dims):
 
         # corpus is all words in dataset
         corpus = group1 + group2 + group3 + concept
-        glove_embeds= get_glove_embeds(embedding_path, dims, preprocess_data(corpus))
+        w2v_embeds= get_w2v_embeds(embedding_path, dims, preprocess_data(corpus))
         print("embeds generated")
 
         rsa_grp1 = []
@@ -176,23 +178,23 @@ def get_RSA3(sheet_path, embedding_path, dims):
 
             # Make hypothesis models, as well as reference models
             samp_sentences = np.array(corpus)[sample]
-            samp_glove = glove_embeds[sample]
+            samp_w2v = w2v_embeds[sample]
 
             grp1_attr_model, grp2_attr_model, grp3_attr_model  = make_concept3(samp_sentences, group1, group2, group3, concept)
 
             # 1 - spearman's r similarity matrix to make dissimilarity matrix
-            glove_sim = np.ones(samp_glove.shape[0]) - spearmanr(samp_glove, axis=1)[0]
+            w2v_sim = np.ones(samp_w2v.shape[0]) - spearmanr(samp_w2v, axis=1)[0]
 
             # Take upper triangle
-            glove_sim = glove_sim[np.triu_indices(samp_glove.shape[0], 1)].reshape(-1)
-            grp1_attr_model = grp1_attr_model[np.triu_indices(samp_glove.shape[0], 1)].reshape(-1)
-            grp2_attr_model = grp2_attr_model[np.triu_indices(samp_glove.shape[0], 1)].reshape(-1)
-            grp3_attr_model = grp3_attr_model[np.triu_indices(samp_glove.shape[0], 1)].reshape(-1)
+            w2v_sim = w2v_sim[np.triu_indices(samp_w2v.shape[0], 1)].reshape(-1)
+            grp1_attr_model = grp1_attr_model[np.triu_indices(samp_w2v.shape[0], 1)].reshape(-1)
+            grp2_attr_model = grp2_attr_model[np.triu_indices(samp_w2v.shape[0], 1)].reshape(-1)
+            grp3_attr_model = grp3_attr_model[np.triu_indices(samp_w2v.shape[0], 1)].reshape(-1)
 
             # Append representational similarity for group 1 and group 2
-            rsa_grp1.append(spearmanr([glove_sim, grp1_attr_model], axis=1)[0])
-            rsa_grp2.append(spearmanr([glove_sim, grp2_attr_model], axis=1)[0])
-            rsa_grp3.append(spearmanr([glove_sim, grp3_attr_model], axis=1)[0])
+            rsa_grp1.append(spearmanr([w2v_sim, grp1_attr_model], axis=1)[0])
+            rsa_grp2.append(spearmanr([w2v_sim, grp2_attr_model], axis=1)[0])
+            rsa_grp3.append(spearmanr([w2v_sim, grp3_attr_model], axis=1)[0])
 
         print(f'RSA {grp1_name} {attr_name}: {np.mean(rsa_grp1)} STD: {np.std(rsa_grp1)}')
         print(f'RSA {grp2_name} {attr_name}: {np.mean(rsa_grp2)} STD: {np.std(rsa_grp2)}')
