@@ -7,7 +7,7 @@ import string
 import numpy as np
 from gensim.models.keyedvectors import Word2VecKeyedVectors
 
-from biasOps import project_onto_subspace
+from common.biasOps import project_onto_subspace
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 

@@ -3,7 +3,7 @@ Loader functions extracted from https://github.com/TManzini/DebiasMulticlassWord
 """
 
 import json
-from util import listContainsMultiple
+from common.util import listContainsMultiple
 
 def load_def_set_pairs(json_filepath):
 	with open(json_filepath, "r") as f: 

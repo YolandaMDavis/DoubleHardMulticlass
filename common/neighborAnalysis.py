@@ -9,8 +9,8 @@ import numpy as np
 from scipy.stats import spearmanr, pearsonr
 import matplotlib.pyplot as plt
 
-from util import preprocessWordVecs, removeWords, load_legacy_w2v
-from loader import load_def_sets
+from common.util import preprocessWordVecs, removeWords, load_legacy_w2v
+from common.loader import load_def_sets
 from sklearn.cluster import KMeans
 
 def parse_arguments():
