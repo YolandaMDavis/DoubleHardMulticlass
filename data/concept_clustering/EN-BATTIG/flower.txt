@@ -1,0 +1,73 @@
+word,freq,frequency,rank,rfreq
+rose,421,86,1,1.75
+tulip,209,4,2,3.46
+carnation,183,0,3,4.04
+daisy,176,3,4,2.96
+violet,147,7,5,4.05
+orchid,135,3,6,4.28
+chrysanthemum,124,1,7,4.3
+lily,108,1,8,4.17
+pansy,108,6,9,3.7
+petunia,101,0,10,2.93
+gardenia,89,1,11,3.75
+daffodil,87,1,12,3.91
+dandelion,75,1,13,4.41
+iris,53,0,14,4.71
+lilac,45,4,15,5.22
+geranium,38,0,16,4.62
+peony,38,3,17,4.33
+sunflower,36,0,18,2.91
+azalea,33,2,19,4.97
+gladiola,32,0,20,5
+lily-of-the-valley,29,0,21,5.27
+snapdragon,26,1,22,5.19
+poppy,22,2,23,3.92
+black-eyed susan,21,0,24,4.33
+zinnia,21,0,25,5.25
+jonquil,18,1,26,4.91
+buttercup,17,0,27,5.46
+marigold,17,0,28,5
+sweet pea,15,0,29,5.1
+morning glory,14,0,30,3.89
+magnolia,13,1,31,7
+aster,12,1,32,6.6
+hyacinth,11,1,33,4.5
+camellia,10,1,34,2.88
+begonia,9,NA,35,NA
+poinsetta,9,NA,36,NA
+bachelor's button,8,NA,37,NA
+crocus,8,NA,38,NA
+posy,8,NA,39,NA
+bluebell,7,NA,40,NA
+dogwood,6,NA,41,NA
+bleeding heart,5,NA,42,NA
+cherry blossom,5,NA,43,NA
+tiger lily,5,NA,44,NA
+water lily,5,NA,45,NA
+african violet,4,NA,46,NA
+apple blossom,4,NA,47,NA
+dahlia,4,NA,48,NA
+flag,4,NA,49,NA
+four-o'clock,4,NA,50,NA
+narcissus,4,NA,51,NA
+orange blossom,4,NA,52,NA
+sweet william,4,NA,53,NA
+fleur-de-lis,3,NA,54,NA
+forget-me-not,3,NA,55,NA
+forsythia,3,NA,56,NA
+hollyhock,3,NA,57,NA
+wild,3,NA,58,NA
+bloom,2,NA,59,NA
+bridal wreath,2,NA,60,NA
+clover,2,NA,61,NA
+garden,2,NA,62,NA
+goldenrod,2,NA,63,NA
+hibiscus,2,NA,64,NA
+honeysuckle,2,NA,65,NA
+nasturtium,2,NA,66,NA
+petal,2,NA,67,NA
+phlox,2,NA,68,NA
+pink,2,NA,69,NA
+pretty,2,NA,70,NA
+rhododendron,2,NA,71,NA
+snowball,2,NA,72,NA

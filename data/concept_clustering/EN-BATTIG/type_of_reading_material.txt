@@ -1,0 +1,99 @@
+word,freq,frequency,rank,rfreq
+magazine,375,39,1,2.67
+book,370,193,2,1.19
+newspaper,295,65,3,3.31
+pamphlet,200,3,4,3.64
+novel,103,59,5,3.3
+textbook,75,4,6,4.14
+paper,61,157,7,3.8
+comic book,57,0,8,4.21
+short story,47,1,9,4.58
+journal,39,42,10,4.78
+article,36,68,11,4.58
+letter,35,145,12,4.05
+play,31,200,13,4.5
+encyclopedia,28,1,14,5.2
+essay,28,19,15,4.33
+peiodical,25,4,16,5.5
+poem,24,48,17,4.93
+leaflet,22,1,18,4.31
+fiction,20,46,19,3.67
+paperback,19,2,20,4.7
+poster,17,4,21,5
+bulletin,15,18,22,4
+bible,14,59,23,4.5
+poetry,14,88,24,4.13
+brochure,12,2,25,4.89
+dictionary,12,1,26,5.45
+note,12,127,27,4.67
+nonfiction,11,4,28,4.83
+biography,10,4,29,4.56
+booklet,10,1,30,4.78
+digest,10,3,31,6.75
+circular,9,NA,32,NA
+history,9,NA,33,NA
+report,9,NA,34,NA
+thesis,9,NA,35,NA
+manuscript,8,NA,36,NA
+sign,8,NA,37,NA
+billboard,7,NA,38,NA
+playboy,7,NA,39,NA
+reference,7,NA,40,NA
+science fiction,7,NA,41,NA
+card,6,NA,42,NA
+editorials,6,NA,43,NA
+folder,6,NA,44,NA
+scroll,6,NA,45,NA
+story,6,NA,46,NA
+theme,6,NA,47,NA
+mystery,5,NA,48,NA
+advertisement,4,NA,49,NA
+cartoon,4,NA,50,NA
+label,4,NA,51,NA
+literature,4,NA,52,NA
+look,4,NA,53,NA
+notebook,4,NA,54,NA
+novelette,4,NA,55,NA
+prose,4,NA,56,NA
+scientific literat,4,NA,57,NA
+sheet,4,NA,58,NA
+telephone director,4,NA,59,NA
+time,4,NA,60,NA
+autobiography,3,NA,61,NA
+catalogue,3,NA,62,NA
+drama,3,NA,63,NA
+flyer,3,NA,64,NA
+instructions,3,NA,65,NA
+pocketbook,3,NA,66,NA
+pornography,3,NA,67,NA
+term paper,3,NA,68,NA
+almanac,2,NA,69,NA
+cereal box,2,NA,70,NA
+chronicle,2,NA,71,NA
+classics,2,NA,72,NA
+comic strip,2,NA,73,NA
+composition,2,NA,74,NA
+cookbook,2,NA,75,NA
+dittoed sheet,2,NA,76,NA
+document,2,NA,77,NA
+handout,2,NA,78,NA
+jokes,2,NA,79,NA
+mad,2,NA,80,NA
+manual,2,NA,81,NA
+medical journal,2,NA,82,NA
+microfilm,2,NA,83,NA
+mimeographed sheet,2,NA,84,NA
+music,2,NA,85,NA
+news,2,NA,86,NA
+newsweek,2,NA,87,NA
+notice,2,NA,88,NA
+novella,2,NA,89,NA
+postcard,2,NA,90,NA
+program,2,NA,91,NA
+racing form,2,NA,92,NA
+review,2,NA,93,NA
+script,2,NA,94,NA
+stock report,2,NA,95,NA
+tract,2,NA,96,NA
+travelogue,2,NA,97,NA
+volume,2,NA,98,NA

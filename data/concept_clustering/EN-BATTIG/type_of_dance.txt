@@ -1,0 +1,89 @@
+word,freq,frequency,rank,rfreq
+waltz,366,1,1,3.32
+frug,276,0,2,2.66
+twist,244,18,3,3.74
+fox-trot,216,0,4,4.49
+cha-cha,156,0,5,4.81
+monkey,115,9,6,3.63
+jitterbug,112,1,7,4.14
+jerk,107,2,8,4.1
+rumba,107,0,9,5.27
+watusi,95,0,10,3.62
+tango,87,2,11,4.76
+square dance,80,0,12,3.9
+samba,69,1,13,5.67
+polka,64,1,14,4.48
+mambo,54,1,15,5.41
+minuet,54,2,16,4.44
+charleston,51,2,17,4.68
+ballet,43,45,18,4.73
+rock'n'roll,39,1,19,4.43
+folk dance,38,0,20,3.23
+modern,37,198,21,3.48
+swim,35,15,22,5.44
+slow,34,60,23,4.71
+mashed potato,32,0,24,4.86
+two step,31,0,25,5.6
+dog,26,75,26,4.85
+freddy,24,20,27,6.5
+bossa nova,22,0,28,5.28
+pony,22,10,29,4.82
+bird,15,31,30,6.29
+fast,14,78,31,4.36
+limbo,14,2,32,4.76
+tap,14,18,33,4.38
+big apple,13,0,34,5.9
+meringue,13,0,35,6
+slop,13,2,36,5.14
+black bottom,11,0,37,6.43
+calypso,11,1,38,4.43
+stroll,10,4,39,5.14
+ballroom,8,NA,40,NA
+bop,8,NA,41,NA
+box step,8,NA,42,NA
+hitchhiker,8,NA,43,NA
+hully gully,8,NA,44,NA
+jazz,8,NA,45,NA
+bunny hop,7,NA,46,NA
+fly,7,NA,47,NA
+fish,6,NA,48,NA
+social,6,NA,49,NA
+interpretive,5,NA,50,NA
+swing,5,NA,51,NA
+uncle willie,5,NA,52,NA
+belly,4,NA,53,NA
+bodie,4,NA,54,NA
+conga,4,NA,55,NA
+hop,4,NA,56,NA
+mouse,4,NA,57,NA
+shimmy,4,NA,58,NA
+stomp,4,NA,59,NA
+bob,3,NA,60,NA
+bug,3,NA,61,NA
+flamenco,3,NA,62,NA
+frog,3,NA,63,NA
+hora,3,NA,64,NA
+jack the ripper,3,NA,65,NA
+jig,3,NA,66,NA
+lindy,3,NA,67,NA
+mexican hat,3,NA,68,NA
+popular,3,NA,69,NA
+surf,3,NA,70,NA
+bomba,2,NA,71,NA
+chicken,2,NA,72,NA
+continental,2,NA,73,NA
+eight-one,2,NA,74,NA
+elephant walk,2,NA,75,NA
+hula,2,NA,76,NA
+jive,2,NA,77,NA
+madison,2,NA,78,NA
+potato,2,NA,79,NA
+rain dance,2,NA,80,NA
+russian,2,NA,81,NA
+shotgun,2,NA,82,NA
+shuffle,2,NA,83,NA
+siamese,2,NA,84,NA
+snake,2,NA,85,NA
+soft-shoe,2,NA,86,NA
+virginia reel,2,NA,87,NA
+walk,2,NA,88,NA

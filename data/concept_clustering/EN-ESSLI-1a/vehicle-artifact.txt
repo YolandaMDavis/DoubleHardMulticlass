@@ -1,0 +1,7 @@
+boat
+car
+ship
+truck
+rocket
+motorcycle
+helicopter

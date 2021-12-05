@@ -1,0 +1,5 @@
+evaluate
+remember
+know
+forget
+check

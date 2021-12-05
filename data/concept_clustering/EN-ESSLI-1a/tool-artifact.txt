@@ -1,0 +1,13 @@
+bottle
+pencil
+pen
+cup
+bowl
+scissors
+kettle
+knife
+screwdriver
+hammer
+spoon
+chisel
+telephone

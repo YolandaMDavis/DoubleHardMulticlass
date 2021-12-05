@@ -1,0 +1,78 @@
+word,freq,frequency,rank,rfreq
+milk,366,49,1,3.04
+coke,327,4,2,2.14
+water,295,442,3,3.87
+orange drink,226,0,4,4.38
+coffee,225,78,5,4.87
+tea,217,28,6,4.85
+pepsi,151,0,7,3.63
+lemonade,119,3,8,5.42
+7up,105,0,9,4.83
+grape juice,103,0,10,4.95
+soda,89,3,11,3.05
+root beer,74,0,12,5.21
+ginger ale,73,0,13,4.55
+fruit juice,51,0,14,4.45
+juice,48,11,15,4.6
+punch,45,5,16,4.93
+tomato juice,44,0,17,5.97
+kool-aid,40,0,18,5.83
+milkshake,28,0,19,5.71
+teem,23,0,20,4.1
+orangeade,21,0,21,5.6
+pop,21,8,22,1.33
+iced tea,19,0,23,6.44
+sprite,19,0,24,5.15
+apple juice,17,0,25,4.87
+grapefruit juice,17,0,26,6
+cocoa,16,2,27,5.9
+limeade,16,0,28,7.22
+soft drink,15,1,29,4.2
+mountain dew,14,0,30,5
+pineapple juice,12,0,31,6.56
+malt,10,1,32,6
+cola,9,NA,33,NA
+fruit drink,9,NA,34,NA
+diet rite,8,NA,35,NA
+hawaiian punch,8,NA,36,NA
+hot chocolate,8,NA,37,NA
+soda pop,8,NA,38,NA
+eggnog,7,NA,39,NA
+squirt,7,NA,40,NA
+cider,6,NA,41,NA
+lemon,6,NA,42,NA
+prune juice,6,NA,43,NA
+carbonated drink,5,NA,44,NA
+cream soda,5,NA,45,NA
+royal crown,5,NA,46,NA
+tab,5,NA,47,NA
+upper 10,5,NA,48,NA
+chocolate milk,4,NA,49,NA
+like,4,NA,50,NA
+vegetable juice,4,NA,51,NA
+cherry,3,NA,52,NA
+coconut-juice milk,3,NA,53,NA
+dr. pepper,3,NA,54,NA
+grape soda,3,NA,55,NA
+iced coffee,3,NA,56,NA
+lemon lime,3,NA,57,NA
+lime,3,NA,58,NA
+seltzer,3,NA,59,NA
+skim milk,3,NA,60,NA
+tang,3,NA,61,NA
+v-8 juice,3,NA,62,NA
+ade,2,NA,63,NA
+ale,2,NA,64,NA
+beer,2,NA,65,NA
+bouillon,2,NA,66,NA
+bubble-up,2,NA,67,NA
+buttermilk,2,NA,68,NA
+carrot juice,2,NA,69,NA
+chocolate,2,NA,70,NA
+cream,2,NA,71,NA
+ice-cream soda,2,NA,72,NA
+phosphates,2,NA,73,NA
+soda water,2,NA,74,NA
+soup,2,NA,75,NA
+tru ade,2,NA,76,NA
+whiskey,2,NA,77,NA

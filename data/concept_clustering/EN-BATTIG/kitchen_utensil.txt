@@ -1,0 +1,111 @@
+word,freq,frequency,rank,rfreq
+knife,382,76,1,2.37
+spoon,369,6,2,2.86
+fork,349,14,3,2.75
+pan,242,16,4,3.7
+pot,205,28,5,3.33
+spatula,155,0,6,4.73
+can opener,103,0,7,5.18
+stove,74,15,8,5.47
+bowl,69,23,9,6.08
+mixer,74,2,10,5.67
+cup,49,45,11,6.56
+dish,42,16,12,6.07
+beater,39,0,13,5.33
+measuring cup,38,0,14,5.91
+frying pan,35,0,15,5.74
+plate,34,22,16,6.71
+skillet,34,2,17,5.06
+egg beater,32,0,18,4.09
+refrigerator,32,23,19,6.72
+sink,31,23,20,6.64
+glass,27,29,21,6.93
+toaster,26,0,22,7.05
+strainer,25,0,23,6.07
+ladle,23,1,24,5.23
+measuring spoons,22,0,25,5.25
+oven,21,7,26,5.5
+saucer,17,2,27,5.13
+blender,14,0,28,6.5
+rolling pin,14,0,29,4
+pot holder,13,0,30,6
+sifter,12,0,31,6.33
+coffee pot,11,2,32,6.4
+cutting board,11,0,33,6.14
+ice box,11,3,34,5
+scraper,11,0,35,6
+colander,10,0,36,6.71
+sauce pan,10,3,37,4.14
+bottle opener,9,NA,38,NA
+knife sharpener,9,NA,39,NA
+potato peeler,9,NA,40,NA
+tongs,9,NA,41,NA
+broiler,8,NA,42,NA
+dishwasher,8,NA,43,NA
+grater,8,NA,44,NA
+kettle,8,NA,45,NA
+potato masher,8,NA,46,NA
+sieve,8,NA,47,NA
+lid,7,NA,48,NA
+mixmaster,7,NA,49,NA
+pancake turner,7,NA,50,NA
+table,7,NA,51,NA
+opener,6,NA,52,NA
+paring knife,6,NA,53,NA
+pressure cooker,6,NA,54,NA
+sponge,6,NA,55,NA
+platter,5,NA,56,NA
+salt and pepper sh,5,NA,57,NA
+cake pan,4,NA,58,NA
+carving knife,4,NA,59,NA
+dishpan,4,NA,60,NA
+grille,4,NA,61,NA
+jar,4,NA,62,NA
+roaster,4,NA,63,NA
+serving spoon,4,NA,64,NA
+thermometer,4,NA,65,NA
+towel,4,NA,66,NA
+butcher knife,3,NA,67,NA
+clock,3,NA,68,NA
+cookie sheet,3,NA,69,NA
+dipper,3,NA,70,NA
+dishrag,3,NA,71,NA
+double boiler,3,NA,72,NA
+flipper,3,NA,73,NA
+food,3,NA,74,NA
+freezer,3,NA,75,NA
+grinder,3,NA,76,NA
+hot pad,3,NA,77,NA
+osterizer,3,NA,78,NA
+salad fork,3,NA,79,NA
+scissors,3,NA,80,NA
+soup spoon,3,NA,81,NA
+tablespoon,3,NA,82,NA
+teaspoon,3,NA,83,NA
+washrag,3,NA,84,NA
+wooden board,3,NA,85,NA
+bread board,2,NA,86,NA
+bread knife,2,NA,87,NA
+broom,2,NA,88,NA
+butter knife,2,NA,89,NA
+cabinets,2,NA,90,NA
+cake knife,2,NA,91,NA
+canister,2,NA,92,NA
+casserole,2,NA,93,NA
+chopper,2,NA,94,NA
+church key,2,NA,95,NA
+cleaver,2,NA,96,NA
+coffee maker,2,NA,97,NA
+corkscrew,2,NA,98,NA
+dustpan,2,NA,99,NA
+hot holder,2,NA,100,NA
+meat cleaver,2,NA,101,NA
+mixing bowl,2,NA,102,NA
+pie pan,2,NA,103,NA
+prongs,2,NA,104,NA
+range,2,NA,105,NA
+scouring pad,2,NA,106,NA
+sheet,2,NA,107,NA
+soup ladle,2,NA,108,NA
+stirring spoon,2,NA,109,NA
+waffle iron,2,NA,110,NA

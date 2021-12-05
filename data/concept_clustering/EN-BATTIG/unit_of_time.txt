@@ -1,0 +1,44 @@
+word,freq,frequency,rank,rfreq
+hour,433,144,1,2.6
+minute,430,53,2,1.92
+second,426,373,3,2.14
+year,424,660,4,5.93
+day,404,686,5,4.07
+century,359,207,6,7.93
+month,325,130,7,5.98
+decade,319,46,8,7.62
+week,280,275,9,5.41
+millisecond,49,0,10,7.36
+eon,48,0,11,8.29
+era,46,30,12,8.39
+score,46,66,13,8.48
+millenium,38,4,14,8.87
+fortnight,24,1,15,7.53
+half hour,23,8,16,6
+age,20,227,17,9.62
+microsecond,20,4,18,7.5
+light-year,18,1,19,7.82
+eternity,13,6,20,8.33
+generation,11,55,21,9.33
+epoch,10,6,22,8.4
+period,8,NA,23,NA
+night,6,NA,24,NA
+infinity,5,NA,25,NA
+a.d.,4,NA,26,NA
+afternoon,4,NA,27,NA
+b.c.,4,NA,28,NA
+degree,4,NA,29,NA
+lifetime,4,NA,30,NA
+moment,4,NA,31,NA
+quarter hour,4,NA,32,NA
+semester,4,NA,33,NA
+centennial,3,NA,34,NA
+clock,3,NA,35,NA
+moon,3,NA,36,NA
+one-tenth second,3,NA,37,NA
+biennium,2,NA,38,NA
+evening,2,NA,39,NA
+half minute,2,NA,40,NA
+split second,2,NA,41,NA
+ten minutes,2,NA,42,NA
+twenty-four hours,2,NA,43,NA

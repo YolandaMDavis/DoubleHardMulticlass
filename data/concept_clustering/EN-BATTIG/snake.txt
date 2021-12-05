@@ -1,0 +1,62 @@
+word,freq,frequency,rank,rfreq
+rattle,374,5,1,2.1
+black,357,203,2,3.04
+cobra,188,3,3,3.02
+copperhead,162,0,4,2.88
+garter,161,0,5,3.69
+water moccasin,146,0,6,4
+garden,125,60,7,3.75
+python,115,14,8,3.48
+poison,113,10,9,3.06
+coral,90,5,10,3.85
+boa,76,7,11,4.77
+boa constrictor,63,0,12,3.35
+cottonmouth,51,1,13,3.96
+green,49,116,14,3.92
+king,39,88,15,4.3
+grass,33,53,16,3.93
+diamondback,32,0,17,4.33
+blue racer,28,0,18,6
+water,27,442,19,4.12
+bull,20,14,20,4.33
+moccasin,19,1,21,4.47
+milk,18,49,22,5
+asp,16,0,23,3.2
+black jacket,15,0,24,4
+anaconda,11,14,25,5.13
+viper,11,0,26,3.38
+sidewinder,9,NA,27,NA
+diamond head,8,NA,28,NA
+eel,8,NA,29,NA
+pit viper,8,NA,30,NA
+worm,8,NA,31,NA
+reptile,7,NA,32,NA
+long,6,NA,33,NA
+adder,5,NA,34,NA
+constrictor,5,NA,35,NA
+nonpoisonous,4,NA,36,NA
+tiger,4,NA,37,NA
+venom,4,NA,38,NA
+bite,3,NA,39,NA
+black panther,3,NA,40,NA
+bushmaster,3,NA,41,NA
+corn,3,NA,42,NA
+cow,3,NA,43,NA
+hognose,3,NA,44,NA
+lizard,3,NA,45,NA
+ring,3,NA,46,NA
+serpent,3,NA,47,NA
+brown,2,NA,48,NA
+coil,2,NA,49,NA
+crawl,2,NA,50,NA
+dangerous,2,NA,51,NA
+diamond,2,NA,52,NA
+indigo,2,NA,53,NA
+king cobra,2,NA,54,NA
+rat,2,NA,55,NA
+rock,2,NA,56,NA
+timber rattler,2,NA,57,NA
+ugly,2,NA,58,NA
+venomous,2,NA,59,NA
+vine,2,NA,60,NA
+yellowbelly,2,NA,61,NA

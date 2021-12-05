@@ -1,0 +1,102 @@
+word,freq,frequency,rank,rfreq
+oak,394,15,1,1.95
+maple,314,7,2,3
+pine,214,14,3,3.97
+elm,210,13,4,2.64
+apple,163,9,5,4.95
+birch,134,2,6,4.28
+cherry,119,6,7,5.44
+dogwood,84,1,8,4.89
+spruce,74,5,9,4.61
+redwood,71,2,10,4.78
+peach,67,3,11,5.95
+weeping willow,67,0,12,4.79
+walnut,64,11,13,4.44
+fir,60,2,14,5.38
+hickory,50,6,15,4.17
+pear,49,6,16,5.47
+sycamore,46,0,17,4.39
+ash,45,11,18,4.07
+poplar,45,1,19,3.96
+willow,41,9,20,4.67
+chestnut,38,5,21,4.64
+cedar,37,1,22,5.14
+evergreen,36,1,23,5.58
+palm,30,22,24,4.93
+beech,29,6,25,5.05
+orange,29,23,26,7.72
+magnolia,20,1,27,4.71
+tulip,18,4,28,4.3
+locust,17,6,29,4.33
+plum,17,1,30,4.8
+cottonwood,14,0,31,3.5
+gingo,13,0,32,3
+sequoia,13,2,33,5.83
+christmas,11,27,34,5.5
+holly,11,0,35,4.36
+mimosa,11,0,36,4.89
+cypress,10,7,37,5.71
+lemon,10,18,38,6
+mulberry,10,0,39,3.6
+fern,9,NA,40,NA
+fig,9,NA,41,NA
+mahogany,9,NA,42,NA
+redbud,9,NA,43,NA
+catalpa,8,NA,44,NA
+eucalyptus,8,NA,45,NA
+fruit,8,NA,46,NA
+gum,8,NA,47,NA
+hemlock,8,NA,48,NA
+sassafras,7,NA,49,NA
+acorn,6,NA,50,NA
+aspen,6,NA,51,NA
+crab apple,6,NA,52,NA
+white pine,6,NA,53,NA
+balsam,5,NA,54,NA
+pussy willow,5,NA,55,NA
+rubber,5,NA,56,NA
+teak,5,NA,57,NA
+white oak,5,NA,58,NA
+balsa,4,NA,59,NA
+banana,4,NA,60,NA
+chinese elm,4,NA,61,NA
+coconut,4,NA,62,NA
+deciduous,4,NA,63,NA
+honey locust,4,NA,64,NA
+linden,4,NA,65,NA
+pin oak,4,NA,66,NA
+red maple,4,NA,67,NA
+sugar maple,4,NA,68,NA
+tulip poplar,4,NA,69,NA
+white birch,4,NA,70,NA
+yew,4,NA,71,NA
+apricot,3,NA,72,NA
+box elder,3,NA,73,NA
+cherry blossom,3,NA,74,NA
+hawthorn,3,NA,75,NA
+huckleberry,3,NA,76,NA
+pecan,3,NA,77,NA
+sumac,3,NA,78,NA
+silver maple,3,NA,79,NA
+sweet gum,3,NA,80,NA
+bark,2,NA,81,NA
+basswood,2,NA,82,NA
+beechwood,2,NA,83,NA
+black gum,2,NA,84,NA
+black oak,2,NA,85,NA
+blue spruce,2,NA,86,NA
+branch,2,NA,87,NA
+coniferous,2,NA,88,NA
+grapefruit,2,NA,89,NA
+green,2,NA,90,NA
+honeysuckle,2,NA,91,NA
+horse chestnut,2,NA,92,NA
+ironwood,2,NA,93,NA
+juniper,2,NA,94,NA
+olive,2,NA,95,NA
+persimmon,2,NA,96,NA
+sapling,2,NA,97,NA
+scottish pine,2,NA,98,NA
+shade,2,NA,99,NA
+tree of heaven,2,NA,100,NA
+versailles,2,NA,101,NA

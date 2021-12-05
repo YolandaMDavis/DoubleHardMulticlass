@@ -1,0 +1,82 @@
+word,freq,frequency,rank,rfreq
+president,434,382,1,1.22
+vice-president,316,11,2,2.57
+senator,268,40,3,3.73
+mayor,198,38,4,4.24
+treasurer,198,14,5,4.17
+secretary,184,101,6,3.48
+governor,184,83,7,3.95
+representative,184,47,8,4.76
+congressman,97,21,9,4.23
+councilman,60,5,10,5.39
+chairman,55,67,11,4.93
+sheriff,29,20,12,5.78
+sergeant at arms,28,40,13,5.21
+judge,26,77,14,4.92
+alderman,25,1,15,6
+secretary of state,18,0,16,4.33
+comptroller,15,4,17,6.13
+dogcatcher,15,0,18,4.9
+historian,15,30,19,5.57
+senate,15,62,20,4.07
+social chairman,13,0,21,6.22
+house of represent,11,0,22,4.55
+lieutenant governo,10,1,23,6
+parliamentarian,10,16,24,5.5
+city council,9,NA,25,NA
+attorney general,8,NA,26,NA
+congress,7,NA,27,NA
+recording secretar,7,NA,28,NA
+commissioner,6,NA,29,NA
+corresponding secr,6,NA,30,NA
+president of the u,6,NA,31,NA
+prime minister,6,NA,32,NA
+cabinet member,5,NA,33,NA
+council,5,NA,34,NA
+legislature,5,NA,35,NA
+school board,5,NA,36,NA
+auditor,4,NA,37,NA
+chief of police,4,NA,38,NA
+delegate,4,NA,39,NA
+manager,4,NA,40,NA
+marshal,4,NA,41,NA
+speaker of the hou,4,NA,42,NA
+vice-president of,4,NA,43,NA
+chancellor,3,NA,44,NA
+city councilman,3,NA,45,NA
+committee chairman,3,NA,46,NA
+committee member,3,NA,47,NA
+county clerk,3,NA,48,NA
+house manager,3,NA,49,NA
+leader,3,NA,50,NA
+pledge trainer,3,NA,51,NA
+reporter,3,NA,52,NA
+secretary of defen,3,NA,53,NA
+state attorney,3,NA,54,NA
+superintendent,3,NA,55,NA
+assemblyman,2,NA,56,NA
+attorney general-s,2,NA,57,NA
+board member,2,NA,58,NA
+board of education,2,NA,59,NA
+chairman of the bo,2,NA,60,NA
+chairmanship,2,NA,61,NA
+clerk,2,NA,62,NA
+cochairman,2,NA,63,NA
+commander,2,NA,64,NA
+county commission,2,NA,65,NA
+deputy,2,NA,66,NA
+district attorney,2,NA,67,NA
+house of delegates,2,NA,68,NA
+parliament,2,NA,69,NA
+public relations c,2,NA,70,NA
+rush chairman,2,NA,71,NA
+scholarship chairm,2,NA,72,NA
+scribe,2,NA,73,NA
+secretary of healt,2,NA,74,NA
+education,2,NA,75,NA
+welfare,2,NA,76,NA
+state legislature,2,NA,77,NA
+state senator,2,NA,78,NA
+student council,2,NA,79,NA
+trustee,2,NA,80,NA
+vice-chairman,2,NA,81,NA

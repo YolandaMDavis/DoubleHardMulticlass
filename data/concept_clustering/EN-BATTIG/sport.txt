@@ -1,0 +1,75 @@
+word,freq,frequency,rank,rfreq
+football,396,36,1,2.62
+baseball,376,57,2,2.66
+basketball,360,9,3,3.57
+tennis,329,15,4,4.65
+swimming,277,37,5,4.43
+soccer,160,3,6,5.05
+golf,153,34,7,4.81
+hockey,130,1,8,4.91
+track,111,38,9,6.24
+lacrosse,107,0,10,5.29
+badminton,96,1,11,6.18
+bowling,96,0,12,5.76
+wrestling,87,1,13,6.21
+volleyball,76,1,14,6.09
+archery,49,1,15,5.92
+skiing,45,7,16,6.58
+fencing,42,4,17,6.56
+ping-pong,39,1,18,6.41
+softball,31,0,19,4.33
+fishing,30,32,20,4.69
+horseback riding,29,0,21,6.22
+handball,27,0,22,6.89
+ice skating,25,0,23,6.14
+polo,24,4,24,6.86
+boxing,23,0,25,6.76
+rugby,23,0,26,5.7
+hunting,18,34,27,7.11
+water skiing,17,0,28,6
+gymnastics,16,11,29,5.75
+racing,15,22,30,6.6
+sailing,15,20,31,6.58
+boating,14,23,32,7
+pool,14,111,33,5.89
+horse racing,13,0,34,6.9
+ice hockey,13,0,35,5
+jai alai,13,0,36,6.4
+squash,13,2,37,6.88
+diving,12,5,38,7.44
+judo,11,0,39,5.8
+surfing,11,0,40,6.13
+chess,9,NA,41,NA
+cross-country,8,NA,42,NA
+running,8,NA,43,NA
+car racing,7,NA,44,NA
+croquet,7,NA,45,NA
+riding,7,NA,46,NA
+canoeing,6,NA,47,NA
+cricket,6,NA,48,NA
+hiking,6,NA,49,NA
+horseshoes,6,NA,50,NA
+roller skating,5,NA,51,NA
+rowing,5,NA,52,NA
+speedball,5,NA,53,NA
+tumbling,5,NA,54,NA
+skating,4,NA,55,NA
+checkers,3,NA,56,NA
+flicker ball,3,NA,57,NA
+shooting,3,NA,58,NA
+skin diving,3,NA,59,NA
+snow skiing,3,NA,60,NA
+track and field,3,NA,61,NA
+weight lifting,3,NA,62,NA
+apparatus,2,NA,63,NA
+camping,2,NA,64,NA
+cards,2,NA,65,NA
+dancing,2,NA,66,NA
+field,2,NA,67,NA
+field hockey,2,NA,68,NA
+girls,2,NA,69,NA
+pole vault,2,NA,70,NA
+shuffleboard,2,NA,71,NA
+skate boarding,2,NA,72,NA
+speedaway,2,NA,73,NA
+water polo,2,NA,74,NA

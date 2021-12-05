@@ -1,0 +1,61 @@
+word,freq,frequency,rank,rfreq
+lieutenant,362,29,1,3.83
+general,339,497,2,3.54
+sergeant,332,28,3,3.7
+private,308,191,4,4.03
+captain,295,85,5,3.31
+colonel,249,37,6,3.21
+major,243,247,7,3.98
+corporal,169,4,8,4.54
+admiral,146,1,9,5
+commander,86,28,10,4.4
+ensign,65,4,11,5.03
+lieutenant colonel,40,1,12,5.16
+private first clas,25,0,13,4
+brigadier general,24,0,14,5.94
+second lieutenant,24,0,15,5.45
+first lieutenant,16,0,16,5.29
+major general,15,0,17,6
+master sergeant,13,0,18,6.46
+seaman,13,7,19,7.67
+airman,12,1,20,6.7
+commander in chief,11,3,21,4.83
+sir,11,95,22,4.8
+lieutenant general,10,0,23,6.29
+boatswain,9,NA,24,NA
+chief,8,NA,25,NA
+lieutenant command,8,NA,26,NA
+cadet,7,NA,27,NA
+officer,7,NA,28,NA
+commodore,6,NA,29,NA
+staff sergeant,6,NA,30,NA
+midshipman,5,NA,31,NA
+military police,5,NA,32,NA
+five-star general,4,NA,33,NA
+lieutenant junior,4,NA,34,NA
+marshal,4,NA,35,NA
+petty officer,4,NA,36,NA
+president,4,NA,37,NA
+airman first class,3,NA,38,NA
+boatswain's mate,3,NA,39,NA
+buc' private,3,NA,40,NA
+field marshal,3,NA,41,NA
+airman second clas,2,NA,42,NA
+airman third class,2,NA,43,NA
+bottle,2,NA,44,NA
+chief of staff,2,NA,45,NA
+commandant,2,NA,46,NA
+first sergeant,2,NA,47,NA
+jar,2,NA,48,NA
+lame corporal,2,NA,49,NA
+mate,2,NA,50,NA
+noncommisioned off,2,NA,51,NA
+plebe,2,NA,52,NA
+rear admiral,2,NA,53,NA
+sailor,2,NA,54,NA
+seaman first class,2,NA,55,NA
+seaman second clas,2,NA,56,NA
+specialist,2,NA,57,NA
+technical sergeant,2,NA,58,NA
+vice admiral,2,NA,59,NA
+warrant officer,2,NA,60,NA

@@ -1,0 +1,103 @@
+word,freq,frequency,rank,rfreq
+trout,216,4,1,3.74
+bass,195,16,2,3.81
+shark,176,3,3,4.13
+herring,161,2,4,2.99
+catfish,143,2,5,4.15
+perch,143,1,6,3.1
+salmon,142,3,7,3.93
+tuna,139,0,8,3.95
+goldfish,127,1,9,3.77
+swordfish,87,0,10,4.38
+sunfish,80,0,11,3.66
+whale,78,0,12,4.58
+rock,72,75,13,3.83
+cod,69,6,14,2.74
+bluegill,64,0,15,3.94
+carp,61,0,16,3.14
+pike,58,41,17,4.64
+minnow,54,0,18,5.03
+guppy,53,0,19,4.38
+flounder,50,1,20,4.07
+marlin,33,2,21,5.4
+shrimp,33,2,22,3.72
+barracuda,31,0,23,5.43
+bluefish,30,1,24,5.11
+mackerel,27,2,25,4.38
+sailfish,27,0,26,5.09
+porpoise,26,0,27,5.92
+shad,26,0,28,3.65
+spot,25,57,29,5.04
+lobster,24,1,30,4.42
+haddock,22,1,31,2.88
+muskie,22,0,32,3
+crappie,21,0,33,8.33
+angel,20,15,34,4.36
+crab,20,2,35,4.38
+halibut,20,0,36,3.29
+white,20,365,37,3.86
+sardine,18,2,38,4.85
+blowfish,17,1,39,4.88
+eel,17,2,40,4.64
+oyster,17,6,41,4.64
+walleye,16,0,42,5
+clam,15,3,43,4.8
+red snapper,15,0,44,4.8
+whiting,13,2,45,5.5
+dolphin,11,1,46,6.7
+piranha,10,0,47,5.33
+sturgeon,9,NA,48,NA
+garfish,8,NA,49,NA
+jellyfish,8,NA,50,NA
+squid,8,NA,51,NA
+starfish,8,NA,52,NA
+dogfish,7,NA,53,NA
+pickerel,7,NA,54,NA
+bullhead,6,NA,55,NA
+sucker,6,NA,56,NA
+tarpon,6,NA,57,NA
+bonefish,5,NA,58,NA
+butterfish,5,NA,59,NA
+crayfish,5,NA,60,NA
+flying,5,NA,61,NA
+grouper,5,NA,62,NA
+king,5,NA,63,NA
+octopus,5,NA,64,NA
+tropical,5,NA,65,NA
+black mollie,4,NA,66,NA
+bluefin,4,NA,67,NA
+hammerhead,4,NA,68,NA
+northern,4,NA,69,NA
+ray,4,NA,70,NA
+sole,4,NA,71,NA
+stingray,4,NA,72,NA
+tiger,4,NA,73,NA
+toadfish,4,NA,74,NA
+bullfish,3,NA,75,NA
+hardhead,3,NA,76,NA
+lox,3,NA,77,NA
+porgy,3,NA,78,NA
+rainbow trout,3,NA,79,NA
+scallop,3,NA,80,NA
+sea horse,3,NA,81,NA
+snapper,3,NA,82,NA
+swordtail,3,NA,83,NA
+yellow perch,3,NA,84,NA
+zebra,3,NA,85,NA
+angler,2,NA,86,NA
+billy gar,2,NA,87,NA
+black bass,2,NA,88,NA
+bonito,2,NA,89,NA
+crossopterygian,2,NA,90,NA
+gefillte,2,NA,91,NA
+large-mouth bass,2,NA,92,NA
+puffer,2,NA,93,NA
+rainbow,2,NA,94,NA
+salamander,2,NA,95,NA
+sawfish,2,NA,96,NA
+small-mouth bass,2,NA,97,NA
+smoked fish,2,NA,98,NA
+steak,2,NA,99,NA
+tadpole,2,NA,100,NA
+weak fish,2,NA,101,NA
+white marlin,2,NA,102,NA

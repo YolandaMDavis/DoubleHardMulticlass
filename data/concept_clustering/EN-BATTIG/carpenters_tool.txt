@@ -1,0 +1,83 @@
+word,freq,frequency,rank,rfreq
+hammer,431,9,1,1.73
+saw,394,352,2,2.42
+nails,248,14,3,3.69
+screwdriver,214,0,4,4.38
+level,168,213,5,4
+plane,147,114,6,4.03
+chisel,103,4,7,3.96
+ruler,76,3,8,4.04
+wrench,61,0,9,4.49
+pliers,58,1,10,5.06
+drill,52,33,11,4.81
+screws,43,10,12,5.53
+t square,40,0,13,4.06
+pencil,37,34,14,5.95
+square,37,143,15,3.81
+sawhorse,29,1,16,5.46
+file,26,81,17,4.92
+lathe,21,1,18,4.33
+sandpaper,20,1,19,5.25
+awl,18,0,20,4.25
+crowbar,18,0,21,5.57
+sander,17,1,22,5.2
+wood,17,55,23,4.93
+plumb,16,5,24,4.71
+plumb line,15,0,25,4.5
+wedge,15,4,26,4.89
+axe,14,6,27,3
+trisquare,14,0,28,5
+vise,14,41,29,5
+knife,13,76,30,4.45
+bolts,12,1,31,6.78
+ladder,12,19,32,5.67
+bench,10,35,33,4.89
+hatchet,10,4,34,5.56
+nuts,10,2,35,6
+tape measure,9,NA,36,NA
+miter box,7,NA,37,NA
+board,6,NA,38,NA
+shaver,6,NA,39,NA
+yardstick,6,NA,40,NA
+glue,5,NA,41,NA
+hacksaw,5,NA,42,NA
+jigsaw,5,NA,43,NA
+lever,5,NA,44,NA
+punch,5,NA,45,NA
+rasp,5,NA,46,NA
+anvil,4,NA,47,NA
+balance,4,NA,48,NA
+blueprints,4,NA,49,NA
+chalk line,4,NA,50,NA
+leveler,4,NA,51,NA
+nail punch,4,NA,52,NA
+scissors,4,NA,53,NA
+tack,4,NA,54,NA
+tape,4,NA,55,NA
+triangle,4,NA,56,NA
+angle,3,NA,57,NA
+block,3,NA,58,NA
+brace,3,NA,59,NA
+measuring tape,3,NA,60,NA
+sledge,3,NA,61,NA
+sledgehammer,3,NA,62,NA
+stapler,3,NA,63,NA
+angle measure,2,NA,64,NA
+bit,2,NA,65,NA
+box,2,NA,66,NA
+brick,2,NA,67,NA
+cement,2,NA,68,NA
+chalk,2,NA,69,NA
+electric saw,2,NA,70,NA
+mallet,2,NA,71,NA
+measure,2,NA,72,NA
+measurer,2,NA,73,NA
+nail set,2,NA,74,NA
+ninety-degree angl,2,NA,75,NA
+planer,2,NA,76,NA
+phillips screwdriv,2,NA,77,NA
+scriber,2,NA,78,NA
+slide rule,2,NA,79,NA
+soldering iron,2,NA,80,NA
+string,2,NA,81,NA
+washer,2,NA,82,NA

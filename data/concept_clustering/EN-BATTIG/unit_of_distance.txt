@@ -1,0 +1,44 @@
+word,freq,frequency,rank,rfreq
+mile,438,48,1,2.84
+foot,417,70,2,2.54
+inch,411,40,3,2.48
+yard,362,35,4,4.05
+meter,314,6,5,4.94
+centimeter,257,2,6,5.11
+kilometer,216,8,7,6.16
+millimeter,183,3,8,5.81
+rod,132,18,9,5.2
+light-year,55,1,10,6.09
+decimeter,45,0,11,7.32
+block,30,66,12,4.14
+league,28,69,13,6.22
+acre,26,9,14,5.68
+fathom,26,3,15,6.23
+knot,24,8,16,6.09
+furlong,22,1,17,5.8
+angstrom unit,11,0,18,7.14
+micron,10,5,19,5.5
+parsec,6,NA,20,NA
+chain,5,NA,21,NA
+cubit,5,NA,22,NA
+micrometer,4,NA,23,NA
+span,4,NA,24,NA
+degree,3,NA,25,NA
+half mile,3,NA,26,NA
+liter,3,NA,27,NA
+millimicron,3,NA,28,NA
+pace,3,NA,29,NA
+square,3,NA,30,NA
+square yard,3,NA,31,NA
+step,3,NA,32,NA
+half inch,2,NA,33,NA
+kilogram,2,NA,34,NA
+length,2,NA,35,NA
+measured in time,2,NA,36,NA
+milligram,2,NA,37,NA
+nautical mile,2,NA,38,NA
+quarter inch,2,NA,39,NA
+quarter mile,2,NA,40,NA
+square foot,2,NA,41,NA
+square inch,2,NA,42,NA
+square mile,2,NA,43,NA

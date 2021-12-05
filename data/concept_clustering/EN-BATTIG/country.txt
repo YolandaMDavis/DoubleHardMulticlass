@@ -1,0 +1,112 @@
+word,freq,frequency,rank,rfreq
+france,339,74,1,4.14
+united states,333,0,2,2.08
+russia,303,72,3,4.19
+england,300,154,4,4.05
+germany,228,81,5,5.64
+canada,163,34,6,5.16
+italy,159,34,7,5.49
+spain,159,7,8,4.99
+mexico,136,19,9,5.25
+china,115,69,10,6.4
+japan,103,38,11,6
+sweden,78,10,12,6.57
+brazil,77,8,13,5.48
+switzerland,76,12,14,6.11
+ireland,56,13,15,5.31
+australia,52,11,16,6.92
+norway,50,2,17,7.53
+india,47,58,18,6.1
+argentina,45,1,19,6.5
+viet nam,44,3,20,6.19
+denmark,42,4,21,7.28
+greece,42,16,22,6.36
+america,40,104,23,2.03
+poland,38,33,24,7.65
+israel,33,15,25,5.36
+africa,32,1,26,5.44
+austria,32,4,27,6.6
+scotland,30,13,28,6.44
+belgium,29,2,29,5.74
+cuba,29,47,30,9.85
+portugal,27,4,31,6.83
+egypt,26,14,32,7.14
+finland,23,2,33,7.38
+turkey,22,9,34,5.77
+britain,21,55,35,3.12
+venezuela,19,3,36,5.71
+iran,17,2,37,5.2
+iraq,15,3,38,7.25
+holland,14,8,39,7.18
+south america,14,0,40,5.5
+bolivia,13,1,41,8
+peru,13,4,42,6.5
+great britain,12,0,43,4.56
+iceland,12,4,44,8.38
+yugoslavia,12,5,45,7.44
+chile,11,1,46,6.7
+rumania,11,1,47,7
+hungary,11,4,48,7.17
+colombia,10,18,49,6.83
+czechoslovakia,9,NA,50,NA
+greenland,9,NA,51,NA
+indonesia,9,NA,52,NA
+luxembourg,9,NA,53,NA
+thailand,9,NA,54,NA
+asia,8,NA,55,NA
+laos,8,NA,56,NA
+netherlands,8,NA,57,NA
+new zealand,8,NA,58,NA
+philippines,8,NA,59,NA
+uruguay,8,NA,60,NA
+belgian congo,7,NA,61,NA
+europe,7,NA,62,NA
+pakistan,7,NA,63,NA
+panama,7,NA,64,NA
+puerto rico,7,NA,65,NA
+dominican republic,6,NA,66,NA
+paraguay,6,NA,67,NA
+south viet nam,6,NA,68,NA
+albania,5,NA,69,NA
+algeria,5,NA,70,NA
+arabia,5,NA,71,NA
+bulgaria,5,NA,72,NA
+farms,5,NA,73,NA
+guatemala,5,NA,74,NA
+korea,5,NA,75,NA
+liberia,5,NA,76,NA
+nigeria,5,NA,77,NA
+south africa,5,NA,78,NA
+united kingdom,5,NA,79,NA
+cambodia,4,NA,80,NA
+red china,4,NA,81,NA
+equador,3,NA,82,NA
+ghana,3,NA,83,NA
+government,3,NA,84,NA
+jordan,3,NA,85,NA
+lithuania,3,NA,86,NA
+malaysia,3,NA,87,NA
+tahiti,3,NA,88,NA
+trees,3,NA,89,NA
+air,2,NA,90,NA
+animals,2,NA,91,NA
+burma,2,NA,92,NA
+cows,2,NA,93,NA
+crete,2,NA,94,NA
+ethiopia,2,NA,95,NA
+flag,2,NA,96,NA
+flowers,2,NA,97,NA
+garden,2,NA,98,NA
+grass,2,NA,99,NA
+hawaii,2,NA,100,NA
+homes,2,NA,101,NA
+lebanon,2,NA,102,NA
+monaco,2,NA,103,NA
+okinawa,2,NA,104,NA
+people,2,NA,105,NA
+santo domingo,2,NA,106,NA
+serbia,2,NA,107,NA
+sudan,2,NA,108,NA
+syria,2,NA,109,NA
+taiwan,2,NA,110,NA
+tibet,2,NA,111,NA

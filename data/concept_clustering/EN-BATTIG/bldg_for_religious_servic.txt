@@ -1,0 +1,45 @@
+word,freq,frequency,rank,rfreq
+church,435,348,1,1.27
+synagogue,356,3,2,2.37
+temple,272,38,3,2.91
+chapel,196,20,4,3.13
+cathedral,166,8,5,3.74
+mosque,115,10,6,3.63
+shrine,42,7,7,4.69
+monastery,27,2,8,4.1
+tabernacle,23,1,9,3.77
+pagoda,21,1,10,5
+sanctuary,21,9,11,3.79
+tent,15,20,12,3.33
+parish,13,11,13,3.64
+house,10,83,14,3.5
+shul,10,0,15,2.67
+basilica,8,NA,16,NA
+convent,8,NA,17,NA
+home,7,NA,18,NA
+school,7,NA,19,NA
+house of god,6,NA,20,NA
+altar,5,NA,21,NA
+hall,5,NA,22,NA
+meetinghouse,5,NA,23,NA
+abbey,4,NA,24,NA
+auditorium,4,NA,25,NA
+mission,4,NA,26,NA
+priest,4,NA,27,NA
+rectory,4,NA,28,NA
+catacomb,3,NA,29,NA
+foundation,3,NA,30,NA
+house of worship,3,NA,31,NA
+meeting hall,3,NA,32,NA
+parish hall,3,NA,33,NA
+pyramid,3,NA,34,NA
+seminary,3,NA,35,NA
+assembly hall,2,NA,36,NA
+building,2,NA,37,NA
+cross,2,NA,38,NA
+funeral home,2,NA,39,NA
+mass,2,NA,40,NA
+nunnery,2,NA,41,NA
+pews,2,NA,42,NA
+retreat,2,NA,43,NA
+tower,2,NA,44,NA

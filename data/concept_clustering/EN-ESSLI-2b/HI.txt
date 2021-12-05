@@ -1,0 +1,15 @@
+chicken
+eagle
+lion
+turtle
+banana
+onion
+potato
+bowl
+pencil
+telephone
+truck
+ship
+car
+bottle
+hammer

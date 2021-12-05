@@ -1,0 +1,52 @@
+word,freq,frequency,rank,rfreq
+chemistry,367,16,1,2.66
+physics,327,22,2,3.34
+psychology,272,14,3,3.23
+biology,270,7,4,3.29
+zoology,248,1,5,3.71
+botany,242,3,6,3.98
+astronomy,114,24,7,4.34
+mathematics,113,20,8,3.49
+geology,76,5,9,4.86
+microbiology,72,0,10,4.75
+sociology,46,15,11,4.58
+entomology,30,0,12,6.07
+medicine,28,30,13,4.32
+engineering,27,46,14,4.74
+biochemistry,26,0,15,5.89
+meteorology,21,0,16,5.5
+physiology,21,2,17,5.21
+anatomy,19,9,18,5.5
+anthropology,18,7,19,5.58
+genetics,14,0,20,5.6
+philosophy,13,86,21,4
+astrology,10,0,22,5.33
+geography,10,5,23,5
+metallurgy,8,NA,24,NA
+bacteriology,7,NA,25,NA
+organic chemistry,7,NA,26,NA
+archaeology,6,NA,27,NA
+biophysics,6,NA,28,NA
+embryology,6,NA,29,NA
+agriculture,4,NA,30,NA
+general science,4,NA,31,NA
+kinesiology,4,NA,32,NA
+oceanography,4,NA,33,NA
+pathology,4,NA,34,NA
+agronomy,3,NA,35,NA
+criminology,3,NA,36,NA
+dentistry,3,NA,37,NA
+history,3,NA,38,NA
+pharmacology,3,NA,39,NA
+aerodynamics,2,NA,40,NA
+architecture,2,NA,41,NA
+earth,2,NA,42,NA
+electrical enginee,2,NA,43,NA
+electronics,2,NA,44,NA
+histology,2,NA,45,NA
+nutrition,2,NA,46,NA
+pharmacy,2,NA,47,NA
+physical science,2,NA,48,NA
+political science,2,NA,49,NA
+social,2,NA,50,NA
+virology,2,NA,51,NA

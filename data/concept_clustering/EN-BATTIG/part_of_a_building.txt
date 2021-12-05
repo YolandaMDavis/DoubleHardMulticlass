@@ -1,0 +1,142 @@
+word,freq,frequency,rank,rfreq
+window,338,119,1,3.54
+door,322,312,2,3.44
+roof,266,59,3,3.98
+wall,242,160,4,3.95
+floor,238,158,5,4.09
+ceiling,167,31,6,4.91
+room,161,383,7,3.46
+basement,108,31,8,4.33
+brick,101,18,9,3.94
+hall,65,152,10,4.65
+stair,64,2,11,4.78
+elevator,61,0,12,5.74
+chimney,60,7,13,4.96
+foundation,51,38,14,5.12
+steps,50,119,15,4.81
+stairway,41,6,16,5
+attic,30,16,17,5.14
+cement,27,11,18,6.06
+wood,25,55,19,6.71
+bathroom,23,18,20,4.53
+closet,23,16,21,6.38
+corner,22,115,22,5.1
+glass,20,99,23,6.75
+cornerstone,19,3,24,2.58
+beams,18,113,25,5.43
+kitchen,18,90,26,5.75
+lights,18,47,27,7
+side,18,380,28,3.88
+cellar,17,26,29,5
+office,17,255,30,5.15
+porch,16,43,31,5.71
+living room,15,1,32,6.88
+lobby,15,20,33,5.22
+bedroom,14,52,34,4.57
+wing,14,18,35,2.73
+entrance,13,57,36,5.13
+furniture,13,39,37,7.33
+stone,13,58,38,6.25
+corridor,12,17,39,5.5
+chairs,11,23,40,5.3
+doorway,11,15,41,5.1
+frame,11,74,42,6.67
+rafters,11,1,43,5.33
+front,10,221,44,2.5
+dining room,9,NA,45,NA
+facade,8,NA,46,NA
+hallway,8,NA,47,NA
+mortar,8,NA,48,NA
+siding,8,NA,49,NA
+desk,7,NA,50,NA
+gutters,7,NA,51,NA
+inside,7,NA,52,NA
+nails,7,NA,53,NA
+shutters,7,NA,54,NA
+eaves,6,NA,55,NA
+first floor,6,NA,56,NA
+girders,6,NA,57,NA
+ledges,6,NA,58,NA
+pipes,6,NA,59,NA
+shingle,6,NA,60,NA
+blackboard,5,NA,61,NA
+fireplace,5,NA,62,NA
+furnace,5,NA,63,NA
+lounge,5,NA,64,NA
+outside,5,NA,65,NA
+tile,5,NA,66,NA
+apartment,4,NA,67,NA
+awnings,4,NA,68,NA
+back,4,NA,69,NA
+balcony,4,NA,70,NA
+banister,4,NA,71,NA
+classrooms,4,NA,72,NA
+cornice,4,NA,73,NA
+framework,4,NA,74,NA
+gable,4,NA,75,NA
+joist,4,NA,76,NA
+metal,4,NA,77,NA
+paint,4,NA,78,NA
+plaster,4,NA,79,NA
+plumbing,4,NA,80,NA
+second floor,4,NA,81,NA
+sidewalk,4,NA,82,NA
+steel,4,NA,83,NA
+windowsill,4,NA,84,NA
+wiring,4,NA,85,NA
+annex,3,NA,86,NA
+boards,3,NA,87,NA
+concrete,3,NA,88,NA
+doorknob,3,NA,89,NA
+escalator,3,NA,90,NA
+fire escape,3,NA,91,NA
+flagpole,3,NA,92,NA
+insulation,3,NA,93,NA
+laboratory,3,NA,94,NA
+level,3,NA,95,NA
+rain gutters,3,NA,96,NA
+rest rooms,3,NA,97,NA
+shade,3,NA,98,NA
+stories,3,NA,99,NA
+structure,3,NA,100,NA
+towers,3,NA,101,NA
+washroom,3,NA,102,NA
+window ledge,3,NA,103,NA
+woodwork,3,NA,104,NA
+block,2,NA,105,NA
+boiler room,2,NA,106,NA
+buttress,2,NA,107,NA
+cable,2,NA,108,NA
+carpet,2,NA,109,NA
+cinder blocks,2,NA,110,NA
+den,2,NA,111,NA
+dome,2,NA,112,NA
+dormer,2,NA,113,NA
+drinking fountain,2,NA,114,NA
+entrance foyer,2,NA,115,NA
+exit,2,NA,116,NA
+flight,2,NA,117,NA
+ground floor,2,NA,118,NA
+lintel,2,NA,119,NA
+lock,2,NA,120,NA
+lumber,2,NA,121,NA
+main floor,2,NA,122,NA
+partitions,2,NA,123,NA
+people,2,NA,124,NA
+pillar,2,NA,125,NA
+rear,2,NA,126,NA
+rec room,2,NA,127,NA
+rod,2,NA,128,NA
+rug,2,NA,129,NA
+section,2,NA,130,NA
+sink,2,NA,131,NA
+skylight,2,NA,132,NA
+staircase,2,NA,133,NA
+stairwell,2,NA,134,NA
+steeple,2,NA,135,NA
+supports,2,NA,136,NA
+tap,2,NA,137,NA
+third floor,2,NA,138,NA
+toilet,2,NA,139,NA
+upper floors,2,NA,140,NA
+vestibule,2,NA,141,NA

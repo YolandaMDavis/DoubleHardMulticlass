@@ -1,0 +1,88 @@
+word,freq,frequency,rank,rfreq
+car,407,274,1,1.13
+bus,300,34,2,3.22
+airplane,280,11,3,4.65
+train,257,82,4,4.11
+truck,223,57,5,3.66
+bicycle,193,5,6,4.6
+motorcycle,174,0,7,5.18
+boat,145,72,8,4.71
+scooter,99,0,9,5.24
+wagon,86,55,10,5.62
+bike,85,0,11,4.64
+ship,47,83,12,6.11
+motor scooter,44,0,13,4.95
+tricycle,43,0,14,5.76
+tractor,35,24,15,5.41
+auto,34,22,16,1.42
+taxi,32,16,17,4.11
+cart,31,5,18,6.55
+trolley car,30,0,19,4.9
+jeep,25,16,20,4.35
+jet,24,29,21,6.76
+streetcar,24,13,22,5.14
+trailer,23,11,23,5.73
+skates,21,1,24,6.55
+cab,19,12,25,5.31
+helicopter,18,1,26,6.4
+subway,17,7,27,5.4
+motorbike,16,0,28,4.75
+tank,16,12,29,4.9
+carriage,15,11,30,5.75
+honda,14,0,31,5.71
+horse,14,117,32,7.67
+feet,12,283,33,5
+sled,12,0,34,6.89
+cycle,11,24,35,5.25
+rocket,11,0,36,6.6
+roller skates,10,0,37,6.6
+skate baord,10,0,38,4
+van,10,32,39,6.25
+ford,9,NA,40,NA
+sports car,8,NA,41,NA
+chevrolet,7,NA,42,NA
+limousine,7,NA,43,NA
+canoe,6,NA,44,NA
+go-cart,6,NA,45,NA
+station wagon,6,NA,46,NA
+submarine,6,NA,47,NA
+volkswagen,6,NA,48,NA
+buggy,5,NA,49,NA
+el,5,NA,50,NA
+unicycle,5,NA,51,NA
+balloon,4,NA,52,NA
+cadillac,4,NA,53,NA
+convertible,4,NA,54,NA
+rickshaw,4,NA,55,NA
+lawn mower,3,NA,56,NA
+monorail,3,NA,57,NA
+raft,3,NA,58,NA
+skis,3,NA,59,NA
+ambulance,2,NA,60,NA
+buick,2,NA,61,NA
+cable car,2,NA,62,NA
+corvair,2,NA,63,NA
+coupe,2,NA,64,NA
+dogsled,2,NA,65,NA
+dump truck,2,NA,66,NA
+elevator,2,NA,67,NA
+falcon,2,NA,68,NA
+fire engine,2,NA,69,NA
+golf cart,2,NA,70,NA
+hands,2,NA,71,NA
+horse and buggy,2,NA,72,NA
+jaguar,2,NA,73,NA
+mg,2,NA,74,NA
+mustang,2,NA,75,NA
+oldsmobile,2,NA,76,NA
+panel truck,2,NA,77,NA
+pontiac,2,NA,78,NA
+ride,2,NA,79,NA
+rocket ship,2,NA,80,NA
+sedan,2,NA,81,NA
+surfboard,2,NA,82,NA
+surrey,2,NA,83,NA
+tram,2,NA,84,NA
+triumph,2,NA,85,NA
+wheelbarrow,2,NA,86,NA
+yamaha,2,NA,87,NA

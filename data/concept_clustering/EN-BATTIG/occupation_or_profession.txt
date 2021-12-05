@@ -1,0 +1,181 @@
+word,freq,frequency,rank,rfreq
+doctor,362,100,1,1.91
+lawyer,269,43,2,2.48
+teacher,155,80,3,4.7
+dentist,112,12,4,3.36
+engineer,109,42,5,3.47
+professor,94,57,6,4.37
+carpenter,83,6,7,3.11
+salesman,60,12,8,4.38
+nurse,47,17,9,4.26
+psychologist,44,10,10,4.71
+plumber,41,4,11,3.95
+accountant,37,2,12,4.24
+businessman,32,9,13,3.73
+scientist,30,17,14,5
+clerk,29,34,15,4.89
+farmer,25,23,16,4.08
+laborer,25,6,17,5.36
+policeman,24,19,18,4.19
+chemist,23,0,19,4.93
+merchant,22,20,20,3.57
+banker,21,5,21,3.58
+physicist,21,5,22,5.15
+executive,20,55,23,4.07
+fireman,20,1,24,4.92
+manager,20,88,25,3.92
+electrician,18,0,26,3.3
+judge,18,77,27,4.79
+mechanic,18,5,28,6.17
+secretary,18,191,29,5.11
+bricklayer,17,0,30,3.8
+mathematician,17,2,31,4.45
+architect,16,22,32,3.67
+pharmacist,16,1,33,4.6
+president,16,382,34,5
+minister,15,61,35,4
+writer,15,73,36,4
+janitor,14,4,37,6.83
+reverend,14,21,38,3.67
+artist,13,57,39,5
+baker,13,36,40,4.5
+psychiatrist,13,4,41,3.7
+senator,12,40,42,3.63
+grocer,11,1,43,5.3
+sailor,11,5,44,5.5
+mailman,10,1,45,4.63
+garbage man,9,NA,46,NA
+machinist,9,NA,47,NA
+milkman,9,NA,48,NA
+surgeon,9,NA,49,NA
+barber,8,NA,50,NA
+cook,8,NA,51,NA
+indian chief,8,NA,52,NA
+pilot,8,NA,53,NA
+politician,8,NA,54,NA
+priest,8,NA,55,NA
+real estate,8,NA,56,NA
+butcher,7,NA,57,NA
+captain,7,NA,58,NA
+colonel,7,NA,59,NA
+ditchdigger,7,NA,60,NA
+father,7,NA,61,NA
+general,7,NA,62,NA
+major,7,NA,63,NA
+musician,7,NA,64,NA
+officer,7,NA,65,NA
+painter,7,NA,66,NA
+preacher,7,NA,67,NA
+soldier,7,NA,68,NA
+student,7,NA,69,NA
+technician,7,NA,70,NA
+actor,6,NA,71,NA
+attorney,6,NA,72,NA
+biologist,6,NA,73,NA
+bus driver,6,NA,74,NA
+druggist,6,NA,75,NA
+housewife,6,NA,76,NA
+representative,6,NA,77,NA
+clergyman,5,NA,78,NA
+economist,5,NA,79,NA
+insurance agent,5,NA,80,NA
+mason,5,NA,81,NA
+mayor,5,NA,82,NA
+physician,5,NA,83,NA
+rabbi,5,NA,84,NA
+steelworker,5,NA,85,NA
+social worker,5,NA,86,NA
+storekeeper,5,NA,87,NA
+truck driver,5,NA,88,NA
+veterinarian,5,NA,89,NA
+white-collar worke,5,NA,90,NA
+astronaut,4,NA,91,NA
+bookmaker,4,NA,92,NA
+candlestick maker,4,NA,93,NA
+chief,4,NA,94,NA
+congressman,4,NA,95,NA
+dietician,4,NA,96,NA
+editor,4,NA,97,NA
+journalist,4,NA,98,NA
+mister,4,NA,99,NA
+pediatrician,4,NA,100,NA
+sir,4,NA,101,NA
+tailor,4,NA,102,NA
+thief,4,NA,103,NA
+advertiser,3,NA,104,NA
+buyer,3,NA,105,NA
+cabdriver,3,NA,106,NA
+certified public a,3,NA,107,NA
+conductor,3,NA,108,NA
+construction worke,3,NA,109,NA
+contractor,3,NA,110,NA
+draftsman,3,NA,111,NA
+driver,3,NA,112,NA
+job,3,NA,113,NA
+jockey,3,NA,114,NA
+king,3,NA,115,NA
+lieutenant,3,NA,116,NA
+researcher,3,NA,117,NA
+sergeant,3,NA,118,NA
+sociologist,3,NA,119,NA
+speech therapist,3,NA,120,NA
+title,3,NA,121,NA
+waiter,3,NA,122,NA
+welder,3,NA,123,NA
+actress,2,NA,124,NA
+administrator,2,NA,125,NA
+announcer,2,NA,126,NA
+author,2,NA,127,NA
+baseball player,2,NA,128,NA
+blacksmith,2,NA,129,NA
+blue collar,2,NA,130,NA
+bookkeeper,2,NA,131,NA
+botanist,2,NA,132,NA
+car driver,2,NA,133,NA
+chairman,2,NA,134,NA
+chef,2,NA,135,NA
+cop,2,NA,136,NA
+cowboy,2,NA,137,NA
+dean,2,NA,138,NA
+detective,2,NA,139,NA
+director,2,NA,140,NA
+drifter,2,NA,141,NA
+factory worker,2,NA,142,NA
+financier,2,NA,143,NA
+football player,2,NA,144,NA
+foreman,2,NA,145,NA
+geologist,2,NA,146,NA
+governor,2,NA,147,NA
+instructor,2,NA,148,NA
+jeweler,2,NA,149,NA
+labor,2,NA,150,NA
+leader,2,NA,151,NA
+librarian,2,NA,152,NA
+longshoreman,2,NA,153,NA
+master,2,NA,154,NA
+military,2,NA,155,NA
+model,2,NA,156,NA
+mortician,2,NA,157,NA
+mrs.,2,NA,158,NA
+newspaperman,2,NA,159,NA
+obstetrician,2,NA,160,NA
+officer in service,2,NA,161,NA
+owner,2,NA,162,NA
+pastor,2,NA,163,NA
+pianist,2,NA,164,NA
+planner,2,NA,165,NA
+position,2,NA,166,NA
+private,2,NA,167,NA
+retailer,2,NA,168,NA
+salesclerk,2,NA,169,NA
+shoemaker,2,NA,170,NA
+singer,2,NA,171,NA
+sister,2,NA,172,NA
+statistician,2,NA,173,NA
+supervisor,2,NA,174,NA
+surveyor,2,NA,175,NA
+typist,2,NA,176,NA
+waitress,2,NA,177,NA
+work,2,NA,178,NA
+worker,2,NA,179,NA
+zoologist,2,NA,180,NA

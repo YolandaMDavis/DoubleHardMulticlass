@@ -1,0 +1,62 @@
+word,freq,frequency,rank,rfreq
+fly,337,33,1,2.54
+ant,258,6,2,2.78
+bee,227,11,3,3.22
+mosquito,227,1,4,3.23
+spider,177,2,5,3.2
+beetle,161,0,6,3.65
+roach,123,2,7,4.02
+wasp,108,2,8,4.56
+grasshopper,100,0,9,3.93
+ladybug,99,0,10,3.96
+gnat,77,0,11,4.43
+moth,62,1,12,5.37
+flea,50,2,13,4.8
+butterfly,48,2,14,4.55
+bug,39,4,15,1.9
+praying mantis,37,0,16,4.23
+cockroach,36,0,17,3.45
+termite,34,0,18,5.1
+hornet,33,0,19,5.25
+cricket,32,3,20,5.41
+caterpillar,30,1,21,4.59
+tick,29,3,22,5.29
+lightning bug,27,0,23,5
+water bug,22,0,24,4.42
+centipede,20,0,25,5
+dragonfly,19,0,26,5.18
+silverfish,19,0,27,5.18
+worm,17,4,28,4.27
+june bug,15,0,29,4.33
+louse,12,3,30,5.88
+locust,12,6,31,6.2
+horsefly,11,2,32,7.5
+aphid,9,NA,33,NA
+fruit fly,8,NA,34,NA
+mite,8,NA,35,NA
+thousand-legger,7,NA,36,NA
+tsetse fly,6,NA,37,NA
+yellow jacket,6,NA,38,NA
+bedbug,5,NA,39,NA
+cicada,5,NA,40,NA
+stinkbug,5,NA,41,NA
+tarantula,5,NA,42,NA
+bumblebee,4,NA,43,NA
+chigger,4,NA,44,NA
+potato bug,4,NA,45,NA
+scorpion,4,NA,46,NA
+daddy longlegs,3,NA,47,NA
+japanese beetle,3,NA,48,NA
+katydid,3,NA,49,NA
+leech,3,NA,50,NA
+black widow,2,NA,51,NA
+boll weevil,2,NA,52,NA
+deerfly,2,NA,53,NA
+firefly,2,NA,54,NA
+honeybee,2,NA,55,NA
+larvae,2,NA,56,NA
+pill bug,2,NA,57,NA
+rodent,2,NA,58,NA
+silver bug,2,NA,59,NA
+silverfork,2,NA,60,NA
+slug,2,NA,61,NA

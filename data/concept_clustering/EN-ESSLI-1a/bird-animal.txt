@@ -1,0 +1,7 @@
+chicken
+eagle
+duck
+swan
+owl
+penguin
+peacock

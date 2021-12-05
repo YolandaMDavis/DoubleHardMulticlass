@@ -1,0 +1,84 @@
+word,freq,frequency,rank,rfreq
+hurricane,318,8,1,3.56
+tornado,303,1,2,4.02
+rain,297,70,3,2.54
+snow,266,59,4,3.1
+hail,206,10,5,4.78
+sleet,173,1,6,4.59
+storm,100,26,7,2.79
+wind,85,63,8,5
+cyclone,83,0,9,3.89
+clouds,74,38,10,4.76
+sun,73,112,11,4.57
+lightning,69,14,12,4.48
+typhoon,57,0,13,4.6
+thunder,55,14,14,4.44
+cold,48,171,15,6.24
+blizzard,46,7,16,4.61
+fog,45,25,17,5.97
+monsoon,42,3,18,4.88
+thunderstorm,31,0,19,3.75
+humidity,30,8,20,6.41
+sunny,29,13,21,4.89
+hot,27,130,22,6.25
+tidal wave,27,0,23,5.22
+hailstorm,18,1,24,4.75
+drought,16,5,25,5.78
+earthquake,16,9,26,2.9
+heat,15,97,27,4.62
+ice,14,45,28,6.13
+rainbow,14,4,29,5
+windstorm,14,1,30,4.55
+clear,13,219,31,6.5
+snowstorm,13,3,32,4.67
+warm,13,67,33,7
+gale,12,2,34,6.25
+waterspout,12,0,35,5.3
+mist,11,14,36,6.2
+rainstorm,11,2,37,4
+twister,11,4,38,5.2
+frost,9,NA,39,NA
+dust storm,8,NA,40,NA
+heat wave,7,NA,41,NA
+smog,7,NA,42,NA
+drizzle,6,NA,43,NA
+high pressure,6,NA,44,NA
+dry,5,NA,45,NA
+foggy,5,NA,46,NA
+low pressure,5,NA,47,NA
+rainy,5,NA,48,NA
+temperature,5,NA,49,NA
+whirlwind,5,NA,50,NA
+breeze,4,NA,51,NA
+calm,4,NA,52,NA
+dew,4,NA,53,NA
+fair,4,NA,54,NA
+front,4,NA,55,NA
+high,4,NA,56,NA
+humid,4,NA,57,NA
+low,4,NA,58,NA
+mild,4,NA,59,NA
+squall,4,NA,60,NA
+avalanche,3,NA,61,NA
+clear sky,3,NA,62,NA
+cloud burst,3,NA,63,NA
+overcast,3,NA,64,NA
+sandstorm,3,NA,65,NA
+tempest,3,NA,66,NA
+thermometer,3,NA,67,NA
+volcano eruption,3,NA,68,NA
+weather vane,3,NA,69,NA
+aurora borealis,2,NA,70,NA
+barometer,2,NA,71,NA
+cold front,2,NA,72,NA
+cold spell,2,NA,73,NA
+dampness,2,NA,74,NA
+eclipse,2,NA,75,NA
+electrical storm,2,NA,76,NA
+glaze,2,NA,77,NA
+haze,2,NA,78,NA
+northern lights,2,NA,79,NA
+pour,2,NA,80,NA
+pressure,2,NA,81,NA
+showers,2,NA,82,NA
+slush,2,NA,83,NA

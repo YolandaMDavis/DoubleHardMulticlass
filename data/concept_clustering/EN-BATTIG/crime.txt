@@ -1,0 +1,95 @@
+word,freq,frequency,rank,rfreq
+murder,387,75,1,1.52
+rape,271,5,2,2.8
+robbery,189,10,3,2.52
+theft,171,10,4,2.46
+assault,132,15,5,3.82
+stealing,95,6,6,2.67
+arson,60,2,7,3.6
+burglary,53,4,8,2.73
+kidnapping,47,1,9,4.56
+larceny,46,2,10,3.13
+embezzling,40,1,11,4.76
+adultery,39,3,12,3.77
+killing,28,23,13,2.39
+battery,27,18,14,5
+breaking and enter,25,0,15,4
+felony,25,1,16,2.58
+speeding,25,4,17,4.4
+forgery,22,1,18,4.74
+treason,22,6,19,4.66
+fraud,21,8,20,4.57
+suicide,19,17,21,3.88
+perjury,18,3,22,5.17
+hit and run,18,1,23,5
+manslaughter,17,4,24,3.5
+blackmail,16,2,25,4.75
+homicide,16,6,26,3
+lying,15,36,27,4.36
+bigamy,13,0,28,3.75
+cheating,13,1,29,4.91
+beating,12,13,30,4
+extortion,12,0,31,5.29
+assault and batter,9,NA,32,NA
+car theft,9,NA,33,NA
+holdup,7,NA,34,NA
+incest,7,NA,35,NA
+misdemeanor,7,NA,36,NA
+bribery,6,NA,37,NA
+disturbing the pea,6,NA,38,NA
+slander,6,NA,39,NA
+stabbing,6,NA,40,NA
+vandalism,6,NA,41,NA
+abortion,5,NA,42,NA
+attack,5,NA,43,NA
+gambling,5,NA,44,NA
+libel,5,NA,45,NA
+petty larceny,5,NA,46,NA
+shoplifting,5,NA,47,NA
+sodomy,5,NA,48,NA
+assassination,4,NA,49,NA
+confidence,4,NA,50,NA
+counterfeiting mon,4,NA,51,NA
+destruction,4,NA,52,NA
+espionage,4,NA,53,NA
+income tax evasion,4,NA,54,NA
+litter-bugging,4,NA,55,NA
+matricide,4,NA,56,NA
+molesting,4,NA,57,NA
+pickpocket,4,NA,58,NA
+plagiarism,4,NA,59,NA
+smuggling,4,NA,60,NA
+looting,3,NA,61,NA
+patricide,3,NA,62,NA
+police,3,NA,63,NA
+sabotage,3,NA,64,NA
+shooting,3,NA,65,NA
+sin,3,NA,66,NA
+swindling,3,NA,67,NA
+traffic violations,3,NA,68,NA
+trespassing,3,NA,69,NA
+vagrancy,3,NA,70,NA
+attempted robbery,2,NA,71,NA
+automobile acciden,2,NA,72,NA
+bank,2,NA,73,NA
+defacing property,2,NA,74,NA
+desertion,2,NA,75,NA
+discrimination,2,NA,76,NA
+dope peddling,2,NA,77,NA
+drunken driving,2,NA,78,NA
+fighting,2,NA,79,NA
+fornication,2,NA,80,NA
+grand larceny,2,NA,81,NA
+homosexuality,2,NA,82,NA
+juvenile delinquen,2,NA,83,NA
+indecent exposure,2,NA,84,NA
+knifing,2,NA,85,NA
+lust,2,NA,86,NA
+mayhem,2,NA,87,NA
+narcotics,2,NA,88,NA
+peddling,2,NA,89,NA
+polygamy,2,NA,90,NA
+punishment,2,NA,91,NA
+rob a bank,2,NA,92,NA
+strangling,2,NA,93,NA
+war,2,NA,94,NA

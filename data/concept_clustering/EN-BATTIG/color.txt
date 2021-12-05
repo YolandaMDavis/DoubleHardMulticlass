@@ -1,0 +1,56 @@
+word,freq,frequency,rank,rfreq
+blue,438,143,1,1.6
+red,435,197,2,2.7
+green,431,116,3,3.96
+yellow,387,55,4,4.74
+orange,382,23,5,5.4
+black,314,203,6,6.4
+purple,282,13,7,6.89
+white,272,365,8,6.65
+pink,224,48,9,6.73
+brown,217,176,10,7.67
+violet,153,7,11,7.22
+gray,94,80,12,8.66
+turquoise,71,3,13,7.98
+gold,56,52,14,7.54
+indigo,47,1,15,7.85
+maroon,46,3,16,8.46
+chartreuse,42,0,17,9.13
+tan,42,9,18,9.66
+lavender,37,5,19,7.56
+beige,35,1,20,9.56
+silver,32,29,21,8.74
+aqua,31,0,22,8.06
+magenta,21,2,23,7.17
+olive,15,5,24,8.4
+rose,14,86,25,9.67
+mauve,13,1,26,9.25
+navy,9,NA,27,NA
+blue green,8,NA,28,NA
+scarlet,8,NA,29,NA
+burgundy,7,NA,30,NA
+fuchsia,7,NA,31,NA
+azure,6,NA,32,NA
+cranberry,6,NA,33,NA
+flesh,6,NA,34,NA
+crimson,5,NA,35,NA
+yellow green,5,NA,36,NA
+orchid,4,NA,37,NA
+peach,4,NA,38,NA
+amber,3,NA,39,NA
+aquamarine,3,NA,40,NA
+blond,3,NA,41,NA
+emerald,3,NA,42,NA
+ivory,3,NA,43,NA
+lemon,3,NA,44,NA
+red orange,3,NA,45,NA
+salmon,3,NA,46,NA
+auburn,2,NA,47,NA
+carmine,2,NA,48,NA
+cream,2,NA,49,NA
+heliotrope,2,NA,50,NA
+lilac,2,NA,51,NA
+ocher,2,NA,52,NA
+red violet,2,NA,53,NA
+ruby,2,NA,54,NA
+tangerine,2,NA,55,NA

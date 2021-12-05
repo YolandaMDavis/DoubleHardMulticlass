@@ -1,0 +1,96 @@
+word,freq,frequency,rank,rfreq
+robin,377,2,1,2.32
+sparrow,237,1,2,4.53
+cardinal,208,15,3,3.92
+blue jay,180,0,4,4.09
+eagle,161,5,5,4.93
+crow,149,29,6,4.71
+bluebird,138,1,7,3.36
+canary,134,0,8,4.03
+parrakeet,115,1,9,4.61
+hawk,111,14,10,6
+blackbird,89,1,11,4.63
+wren,83,0,12,4.54
+oriole,77,11,13,3.19
+parrot,72,1,14,4.69
+pigeon,56,3,15,4.83
+hummingbird,50,0,16,4.69
+starling,49,1,17,5.97
+woodpecker,46,1,18,5.3
+vulture,44,4,19,4.89
+swallow,41,10,20,4.64
+chicken,40,37,21,6
+dove,36,4,22,4.32
+duck,36,9,23,5.53
+owl,36,2,24,5.57
+redbird,36,3,25,3.54
+sea gull,32,1,26,4.85
+thrush,31,2,27,5.67
+falcon,28,4,28,4
+jay,24,15,29,4
+pheasant,22,1,30,5.1
+finch,20,0,31,5.1
+mockingbird,19,0,32,4.75
+buzzard,17,0,33,6.36
+ostrich,17,0,34,6.25
+flamingo,16,0,35,5
+lark,15,2,36,4.56
+peacock,15,2,37,4.7
+turkey,15,9,38,6.18
+penguin,14,0,39,6.4
+purple martin,14,0,40,6
+raven,14,0,41,5.56
+swan,14,3,42,5.63
+crane,13,5,43,7.8
+geese,12,3,44,4.86
+chickadee,11,0,45,7
+pelican,11,0,46,6.5
+stork,10,0,47,6.33
+warbler,10,0,48,4.71
+catbird,9,NA,49,NA
+grackle,9,NA,50,NA
+quail,9,NA,51,NA
+goldfinch,7,NA,52,NA
+meadowlark,7,NA,53,NA
+nightingale,7,NA,54,NA
+rooster,7,NA,55,NA
+kingfisher,6,NA,56,NA
+martin,6,NA,57,NA
+myna bird,6,NA,58,NA
+bobwhite,5,NA,59,NA
+egret,5,NA,60,NA
+snowbird,5,NA,61,NA
+condor,4,NA,62,NA
+emu,4,NA,63,NA
+hen,4,NA,64,NA
+heron,4,NA,65,NA
+lovebird,4,NA,66,NA
+scarlet tanager,4,NA,67,NA
+yellow-bellied sap,4,NA,68,NA
+albatross,3,NA,69,NA
+bat,3,NA,70,NA
+baltimore oriole,3,NA,71,NA
+eye,3,NA,72,NA
+morning dove,3,NA,73,NA
+redwing,3,NA,74,NA
+wing,3,NA,75,NA
+bald eagle,2,NA,76,NA
+beak,2,NA,77,NA
+bobolink,2,NA,78,NA
+chimney swift,2,NA,79,NA
+cowbird,2,NA,80,NA
+dodo,2,NA,81,NA
+feathers,2,NA,82,NA
+feet,2,NA,83,NA
+flicker,2,NA,84,NA
+go,2,NA,85,NA
+junco,2,NA,86,NA
+osprey,2,NA,87,NA
+red-headed woodpec,2,NA,88,NA
+redwing back,2,NA,89,NA
+run,2,NA,90,NA
+stop,2,NA,91,NA
+tern,2,NA,92,NA
+toucan,2,NA,93,NA
+whippoorwill,2,NA,94,NA
+wood thrush,2,NA,95,NA
