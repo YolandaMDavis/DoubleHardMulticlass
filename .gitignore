@@ -2,4 +2,4 @@
 *.ipynb_checkpoints*
 
 .idea/*
-data/generated-*.w2v
+data/*.w2v

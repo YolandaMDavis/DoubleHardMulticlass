@@ -1,5 +1,10 @@
+"""
+Code adapted from https://github.com/uvavision/Double-Hard-Debias/blob/master/eval.py
+"""
+
 import os
 import numpy as np
+
 
 def evaluate_analogies(word2vec_dict):
     # Get all word embeddings into a matrix
