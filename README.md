@@ -8,7 +8,7 @@ It includes three notebooks for reproducing the study:
 2. Representation Similarity analysis - [rsa.ipynb](rsa.ipynb). **This notebook requires the w2v generated files created in [double-hard-debias.ipynb](double-hard-debias.ipynb)**.
 3. Utility Evaluation - [semantic_eval.ipynb](semantic_eval.ipynb). This notebook executes downstream evaluation methods Concept Categorization and Analogy Analysis.
 
-###Requirements
+### Requirements
 
 1. This project was created and tested with python 3.9.  The following libraries are required (and referenced in [requirements.txt](requirements.txt)):
 ```
