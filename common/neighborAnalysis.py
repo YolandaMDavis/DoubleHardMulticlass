@@ -13,6 +13,7 @@ from common.util import preprocessWordVecs, removeWords, load_legacy_w2v
 from common.loader import load_def_sets
 from sklearn.cluster import KMeans
 
+
 def parse_arguments():
     parser = argparse.ArgumentParser()
     parser.add_argument('biased_embeddings', help="Path to biased embeddings")
@@ -32,6 +33,7 @@ def parse_arguments():
     parser.add_argument('-v', '--verbose', action='store_true')
 
     return parser.parse_args()
+
 
 def get_most_biased(word_vectors, subspace, n_biased=500):
     """
@@ -206,7 +208,7 @@ def plot_multi(args):
         plt.scatter(biases, n_neighbors_biased, s=1.5, color='c')
         # plt.title("Original", fontsize='medium')
         ax.text(0.03, 0.88, "Original", fontsize='small', transform=ax.transAxes,
-            horizontalalignment='left')
+                horizontalalignment='left')
         plt.ylim(0, 100)
         plt.tick_params(labelsize=8)
 
@@ -216,8 +218,8 @@ def plot_multi(args):
             y = n_closest[c][p][0]
             # print(p, (x, y))
             plt.annotate(p, xy=(x, y),
-                xytext=(np.random.random()*0.1, np.random.random()*0.1),
-                textcoords='offset pixels', fontsize='x-small')
+                         xytext=(np.random.random() * 0.1, np.random.random() * 0.1),
+                         textcoords='offset pixels', fontsize='x-small')
 
         plt.show()
         figs.append(fig)
@@ -226,7 +228,7 @@ def plot_multi(args):
         ax = fig.add_subplot(111)
         plt.scatter(biases, n_neighbors_debiased, s=1.5, color='c')
         ax.text(0.03, 0.88, f"Debiased", fontsize='small', transform=ax.transAxes,
-            horizontalalignment='left')
+                horizontalalignment='left')
         plt.ylim(0, 100)
         plt.tick_params(labelsize=8)
 
@@ -235,12 +237,12 @@ def plot_multi(args):
             x = original_bias[c][p]
             y = n_closest[c][p][1]
             plt.annotate(p, xy=(x, y),
-                xytext=(np.random.random()*0.1, np.random.random()*0.1),
-                textcoords='offset pixels', fontsize='x-small')
+                         xytext=(np.random.random() * 0.1, np.random.random() * 0.1),
+                         textcoords='offset pixels', fontsize='x-small')
 
         plt.show()
         figs.append(fig)
-        
+
         print(c)
         print("biased")
         print("Pearson: {}".format(pearsonr(biases, n_neighbors_biased)))
@@ -250,6 +252,7 @@ def plot_multi(args):
         print("Spearman: {}".format(spearmanr(biases, n_neighbors_debiased)))
 
     # plt.show()
+
 
 def plot_binary(args):
     # load embeddings
@@ -300,7 +303,7 @@ def plot_binary(args):
     # get 500 most biased words in either direction
     print("computing bias of all words")
     positive_bias, negative_bias = get_most_biased(word_vectors, gender_direction)
-    
+
     if args.verbose:
         print("Ten most male-biased")
         print(positive_bias[:10])
@@ -383,14 +386,16 @@ def plot_binary(args):
     print("Spearman: {}".format(spearmanr(biases, n_neighbors_biased)))
     print("Pearson (debiased): {}".format(pearsonr(biases, n_neighbors_debiased)))
     print("Spearman (debiased): {}".format(spearmanr(biases, n_neighbors_debiased)))
-    
+
     plt.show()
+
 
 def cluster(X1, random_state, y_true, num=2):
     kmeans_1 = KMeans(n_clusters=num, random_state=random_state).fit(X1)
     y_pred_1 = kmeans_1.predict(X1)
-    correct = [1 if item1 == item2 else 0 for (item1,item2) in zip(y_true, y_pred_1) ]
-    return max(sum(correct)/float(len(correct)), 1 - sum(correct)/float(len(correct)))
+    correct = [1 if item1 == item2 else 0 for (item1, item2) in zip(y_true, y_pred_1)]
+    return max(sum(correct) / float(len(correct)), 1 - sum(correct) / float(len(correct)))
+
 
 def main():
     args = parse_arguments()
@@ -399,6 +404,7 @@ def main():
         plot_multi(args)
     else:
         plot_binary(args)
+
 
 if __name__ == '__main__':
     main()

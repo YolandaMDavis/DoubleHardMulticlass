@@ -1,9 +1,13 @@
+"""
+Code adapted from https://github.com/uvavision/Double-Hard-Debias/blob/master/eval.py
+"""
 import glob
+import os
+import numpy as np
 from sklearn.utils import Bunch
 from sklearn.cluster import AgglomerativeClustering, KMeans
 from six import iteritems
-import os
-import numpy as np
+
 
 def evaluate_categorization(word_vectors, X, y, method='kmeans', seed=None):
     """

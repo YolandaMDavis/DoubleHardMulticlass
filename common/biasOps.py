@@ -1,17 +1,20 @@
+import numpy as np
+from sklearn.decomposition import PCA
+from sklearn.metrics.pairwise import cosine_similarity
+
 """
 Original Code Adapted from https://github.com/TManzini/DebiasMulticlassWordEmbedding/blob/master/Debiasing/biasOps.py
 (Except where directly indicated from another source)
 """
-import numpy as np
-from sklearn.decomposition import PCA
-from sklearn.metrics.pairwise import cosine_similarity
+
 
 def normalize(word_vectors):
     for k, v in word_vectors.items():
         word_vectors[k] = v / np.linalg.norm(v)
 
+
 def calculate_main_pca_components(word_vectors):
-    """From https://github.com/uvavision/Double-Hard-Debias/blob/master/GloVe_Debias.ipynb"""
+    """ Adapted From https://github.com/uvavision/Double-Hard-Debias/blob/master/GloVe_Debias.ipynb"""
     vectors = word_vectors.vectors
     wv_mean = np.mean(np.array(vectors), axis=0)
     wv_hat = vectors - wv_mean
@@ -19,10 +22,12 @@ def calculate_main_pca_components(word_vectors):
     main_pca.fit(wv_hat)
     return main_pca
 
-def neutralize_and_equalize_with_frequency_removal(vocab, words, eq_sets, bias_subspace, embedding_dim, principal_component):
+
+def neutralize_and_equalize_with_frequency_removal(vocab, words, eq_sets, bias_subspace, embedding_dim,
+                                                   principal_component):
     """
-    Function to support double hard debias technique, ensureing to remove frequence direction before
-    executing netrualize and equalize function
+    Function to support double hard debias technique, ensuring to remove frequency direction before
+    executing neutralize and equalize function
 
     vocab - dictionary mapping words to embeddings
     words - words to neutralize
@@ -90,19 +95,22 @@ def identify_bias_subspace(vocab, def_sets, subspace_dim, embedding_dim):
 
     return pca.components_
 
+
 def project_onto_subspace(vector, subspace):
     v_b = np.zeros_like(vector)
     for component in subspace:
         v_b += np.dot(vector.transpose(), component) * component
     return v_b
 
+
 def calculateDirectBias(vocab, neutral_words, bias_subspace, c=1):
     directBiasMeasure = 0
     for word in neutral_words:
         vec = vocab[word]
-        directBiasMeasure += np.linalg.norm(cosine_similarity(vec, bias_subspace))**c
-    directBiasMeasure *= 1.0/len(neutral_words)
+        directBiasMeasure += np.linalg.norm(cosine_similarity(vec, bias_subspace)) ** c
+    directBiasMeasure *= 1.0 / len(neutral_words)
     return directBiasMeasure
+
 
 def neutralize_and_equalize(vocab, words, eq_sets, bias_subspace, embedding_dim):
     """
@@ -126,7 +134,7 @@ def neutralize_and_equalize(vocab, words, eq_sets, bias_subspace, embedding_dim)
             v_b = project_onto_subspace(v, bias_subspace)
 
             new_v = (v - v_b) / np.linalg.norm(v - v_b)
-            #print np.linalg.norm(new_v)
+            # print np.linalg.norm(new_v)
             # update embedding
             new_vocab[w] = new_v
 
@@ -135,7 +143,7 @@ def neutralize_and_equalize(vocab, words, eq_sets, bias_subspace, embedding_dim)
     for eq_set in eq_sets:
         mean = np.zeros((embedding_dim,))
 
-        #Make sure the elements in the eq sets are valid
+        # Make sure the elements in the eq sets are valid
         cleanEqSet = []
         for w in eq_set:
             try:
