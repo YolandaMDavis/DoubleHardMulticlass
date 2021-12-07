@@ -3,3 +3,4 @@
 
 .idea/*
 data/*.w2v
+data/analogies/*.txt
