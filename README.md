@@ -4,8 +4,8 @@ This repository contains the code that was used in support of the paper "Evaluat
 
 It includes three notebooks for reproducing the study:
 
-1. Double-Hard Debias generation and embedding bias analysis - [double-hard-debias.ipynb](double-hard-debias.ipynb). This notebook executes both hard an double-hard debias methods and runs a variety of analysis for review and compare.  This notebook also generates required files needed for RSA (see 2)
-2. Representation Similarity analysis - [rsa.ipynb](rsa.ipynb). **This notebook requires the w2v generated files created in [double-hard-debias.ipynb](double-hard-debias.ipynb)**.
+1. Double-Hard Debias generation and embedding bias analysis - [double-hard-debias.ipynb](double-hard-debias.ipynb). This notebook executes both hard an double-hard debias methods and runs a variety of analysis for review and compare.  This notebook also generates required files needed for RSA for review and comparison (see 2).
+2. Representation Similarity analysis - [rsa.ipynb](rsa.ipynb). **This notebook requires that double-hard-debias.ipynb be executed prior to running the notebook for the first time to generate required w2v files.**
 3. Utility Evaluation - [semantic_eval.ipynb](semantic_eval.ipynb). This notebook executes downstream evaluation methods Concept Categorization and Analogy Analysis.
 
 ### Requirements
@@ -29,7 +29,7 @@ Jupyter server is also required for execution of notebooks
    1. Pre-trained Word2Vec pt. 0 (w2v_0) embeddings from T. Manzini et al study. File should be saved to **data** folder as **data_vocab_race_pre_trained.w2v**. [download file](https://drive.google.com/file/d/1IJdGfnKNaBLHP9hk0Ns7kReQwo_jR1xx/view)
    2. Pre-processed Hard Debiased embeddings from T. Manzini et al study.  File should be saved to **data** folder as **data_vocab_race_hard_debias.w2v**. [download file](https://drive.google.com/file/d/1at-OZonjKtb-Z1MvvLX3embAbZyfAmwX/view)
 
-3. Proceed with running research notebooks. **NOTE: The RSA study requires that [double-hard-debias.ipynb](double-hard-debias.ipynb) be executed prior to running the notebook for the first time to generate required w2v files.**
+3. Proceed with running research notebooks.
 
 ### Reference Research & Code Repositories
 This code is an adaptation of published code from the following research papers:
@@ -43,4 +43,4 @@ This code is an adaptation of published code from the following research papers:
 [Unequal Representations: Analyzing Intersectional Biases in Word Embeddings Using Representational Similarity Analysis](https://aclanthology.org/2020.coling-main.151.pdf)
 [(project code)](https://github.com/mlepori1/Unequal_Representations)
 
-We appreciate the efforts of each of these projects towards helps us move forward this research.
+We appreciate the efforts of each of these projects that helped to support our research.
